@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Ask IIT Ropar</title>
+  <meta name="description" content="Answers about IIT Ropar from the institute's official information, with sources.">
+  <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="/" aria-label="Ask IIT Ropar home">
+        <img src="/static/favicon.svg" alt="" width="32" height="32">
+        <span>
+          <strong>Ask IIT Ropar</strong>
+          <small>Answers from the institute's official information</small>
+        </span>
+      </a>
+      <button id="new-chat" class="ghost" type="button" hidden>New chat</button>
+    </div>
+  </header>
+
+  <main id="chat">
+    <div class="column">
+      <section id="welcome" class="welcome">
+        <h1>What would you like to know?</h1>
+        <p>Departments, professors, clubs, fests, hostels, academics, admissions, placements and facilities.
+          Every answer links to its official source.</p>
+        <div class="examples" id="examples">
+          <button type="button" class="chip">Who teaches machine learning in CSE?</button>
+          <button type="button" class="chip">When is Zeitgeist?</button>
+          <button type="button" class="chip">What are the hostel rules?</button>
+          <button type="button" class="chip">Latest PhD admission notices?</button>
+          <button type="button" class="chip">Who is the BoCA faculty advisor?</button>
+          <button type="button" class="chip">Upcoming holidays</button>
+        </div>
+      </section>
+      <ol id="messages" class="messages" aria-live="polite"></ol>
+    </div>
+  </main>
+
+  <footer class="dock">
+    <div class="column">
+      <form id="composer" class="composer">
+        <label for="input" class="visually-hidden">Your question</label>
+        <textarea id="input" rows="1" maxlength="1000" placeholder="Ask about IIT Ropar…" autocomplete="off"></textarea>
+        <button id="send" type="submit" aria-label="Send question" title="Send">
+          <svg class="icon-send" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12l16-8-6 16-2.5-6.5L4 12z"/></svg>
+          <svg class="icon-stop" viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="2"/></svg>
+        </button>
+      </form>
+      <p class="footnote">Answers can be incomplete or out of date. Confirm important details on
+        <a href="https://www.iitrpr.ac.in" target="_blank" rel="noopener noreferrer">iitrpr.ac.in</a>.
+        Please don't share personal information.</p>
+    </div>
+  </footer>
+
+  <template id="tpl-assistant">
+    <li class="msg assistant">
+      <div class="meta"></div>
+      <div class="bubble md"><span class="typing" aria-label="Thinking"><i></i><i></i><i></i></span></div>
+      <div class="offer" hidden></div>
+      <div class="sources" hidden>
+        <h2>Sources</h2>
+        <ol></ol>
+        <details hidden><summary></summary><ol></ol></details>
+      </div>
+      <div class="actions" hidden>
+        <button type="button" class="vote" data-rating="up" aria-label="Helpful" title="Helpful">👍</button>
+        <button type="button" class="vote" data-rating="down" aria-label="Not helpful" title="Not helpful">👎</button>
+        <span class="status" role="status"></span>
+      </div>
+    </li>
+  </template>
+
+  <script src="/static/vendor/marked.min.js"></script>
+  <script src="/static/vendor/purify.min.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>

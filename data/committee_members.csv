@@ -1,0 +1,96 @@
+﻿committee_name,name,designation,role,department_name,email
+ACPGR,Dr. Sarang Gumfekar,"Associate Dean, PG & Research - Chairperson",Chairperson,Not Applicable,
+ACPGR,Dr. Yashveer Singh,Department of Chemistry,Member,Department of Chemistry,
+ACPGR,Dr. Shashi Shekhar Jha,"Dean, Undergraduate Studies",Member,Computer Science Engineering,
+ACPGR,Dr. Manish Agrawal,Department of Mechanical Engineering,Member,Mechanical Engineering,
+ACPGR,Dr. Girish Kulkarni,Department of Physics,Member,Department of Physics,
+ACPGR,Prof. Arvind Kumar Gupta,Department of Mathematics,Member,Department of Mathematics,
+ACPGR,Dr. Jagpreet Singh,Department of Computer Science & Engineering,Member,Computer Science Engineering,
+ACPGR,Dr. A. V. Raviteja,Department of Electrical Engineering,Member,Electrical Engineering,
+ACPGR,Dr. Ratan Sarmah,Department of Civil Engineering,Member,Civil Engineering,
+ACPGR,Dr. Avala Lava Kumar,Department of Metallurgical & Materials Engineering,Member,Metallurgical & Materials Engineering,
+ACPGR,Dr. Jayaram Valluru,Department of Chemical Engineering,Member,Chemical Engineering,
+ACPGR,Dr. Srivastava Naidu,Department of Biomedical Engineering,Member,Biomedical Engineering,
+ACPGR,Dr. Jitendra Prasad,Department of Environmental Engineering,Member,Environmental Engineering,
+ACPGR,Dr. Deepak Singh,Department of Data Science,Member,Center for Applied Research in Data Science,
+ACPGR,Dr. Abhinav Kumar,School of Artificial Intelligence & Data Engineering,Member,Artificial Intelligence & Data Engineering,
+ACPGR,Dr. Vishwajeet Mehandia,Centre for Research and Education in Energy & Durability (CREED),Member,Center for Research for Energy Efficiency & Decarbonization,
+ACPGR,Dr. Manish Kumar,Centre of Drones and Autonomous Systems (DRAS),Member,Centre of Drones and Autonomous Systems (DRAS),
+ACPGR,Dr. Navin James,Socio Environmental Sustainability for River Sand Mining (CoE-SEnSRS),Member,Not Applicable,
+ACPGR,Sh. Lagvish Kumar,"Joint Registrar, Academic Affairs",Member,Academics,
+ACPGR,Sh. Amod Kanhere,"Assistant Registrar, Academic Affairs",Member,Academics,
+ACPGR,Sh. Soumit Dutta,Research Secretary,Member,Not Applicable,
+ACUG,Dr. Sarang Gumfekar,Associate Dean (PG & Research),Member,Chemical Engineering,deanpg@iitrpr.ac.in
+ACUG,Dr. Shashi Shekhar Jha,Dean (UG) - Chairperson,Chairperson,Computer Science Engineering,shashi@iitrpr.ac.in
+ACUG,Dr. Kondapalli Ramchandran Sekhar,Associate Professor,Member,Electrical Engineering,sekhar@iitrpr.ac.in
+ACUG,Dr. Puneet Goyal,Associate Professor,Member,Computer Science Engineering,puneet@iitrpr.ac.in
+ACUG,Dr. Samir Chandra Roy,Assistant Professor,Member,Mechanical Engineering,scroy@iitrpr.ac.in
+ACUG,Dr. Rahul T. M.,Associate Professor,Member,Civil Engineering,tm.rahul@iitrpr.ac.in
+ACUG,Dr. Asad H. Sahir,Assistant Professor,Member,Chemical Engineering,asad.sahir@iitrpr.ac.in
+ACUG,Dr. Abhishek Tiwari,Assistant Professor,,Metallurgical & Materials Engineering,abhishek.tiwari@iitrpr.ac.in
+ACUG,Dr. Kamal Kumar Choudhary,Associate Professor,Member,Humanities and Social Sciences,kamal@iitrpr.ac.in
+ACUG,Dr. M. Prabhakar,Associate Professor,Member,Department of Mathematics,prabhakar@iitrpr.ac.in
+ACUG,Dr. Vivekanand Shukla,Assistant Professor,Member,Department of Physics,vivekanand.shukla@iitrpr.ac.in
+ACUG,Dr. Bodhisatwa,Assistant Professor,Member,Biomedical Engineering,bodhisatwa.das@iitrpr.ac.in
+ACUG,Dr. Manoj Kumar Pandey,Assistant Professor,Member,Department of Chemistry,mkpandey@iitrpr.ac.in
+ACUG,Dr. Vandana Bharti,Assistant Professor,Member,Artificial Intelligence & Data Engineering,vandana@iitrpr.ac.in
+ACUG,Sh. Lagvish Kumar,Joint Registrar,Member,Academics,jr.acad@iitrpr.ac.in
+ACUG,Sh. Amod Kanhere,Assistant Registrar,Member,Academics,officer-academics-1@iitrpr.ac.in
+ACUG,Mr. Aayush Arora,General Secretary,Member,Board of Academic Affairs,
+Board of Academic Affairs,Mr. Aayush Arora,"General Secretary, Board of Academic Affairs",General Secretary,Not Applicable,gs.academic@iitrpr.ac.in
+Board of Cultural Activities,Dr. Anupam Bandyopadhyay,Assistant Professor,Faculty Advisor,Not Applicable,boca@iitrpr.ac.in
+Board of Cultural Activities,Ms. Adrika Sikidar,General Secretary,General Secretary,Not Applicable,gs.cultural@iitrpr.ac.in
+Board of Hostel Affairs,Dr. Indramani Dhada,Assistant Professor,Chief Warden,Not Applicable,chiefwarden@iitrpr.ac.in
+Board of Hostel Affairs,Deepanshu,General Secretary,General Secretary,Not Applicable,gs.hostel@iitrpr.ac.in
+Board of Literacy Activities,Dr. Aparna N,Assistant Professor,Faculty Advisor,Not Applicable,fa.sa.bola@iitrpr.ac.in
+Board of Literacy Activities,Mr. Arfan Ali,General Secretary,General Secretary,Not Applicable,gs.lit@iitrpr.ac.in
+Board of Sports Affairs,Dr. Hariprasad Gopalan,Assistant Professor,Faculty Advisor,Not Applicable,hariprasad.gopalan@iitrpr.ac.in
+Board of Sports Affairs,Sh. Ajeet Pal Singh,Sports Officer,Sports Officer,Not Applicable,so@iitrpr.ac.in
+Board of Sports Affairs,Mr. Mann Sharma,General Secretary,General Secretary,Not Applicable,gs.sports@iitrpr.ac.in
+Board of Science & Technology,Dr. Manish Kumar,Assistant Professor,Faculty Advisor,Not Applicable,fa.sa.bost@iitrpr.ac.in
+Board of Science & Technology,Mr. T. Adil,General Secretary,,Not Applicable,gs.tech@iitrpr.ac.in
+Board of Wellness Affairs,Mr. Agampreet,General Secretary,General Secretary,Not Applicable,gs.bowa@iitrpr.ac.in
+Electoral Literacy Club,Dr. Bhavesh Garg,Faculty Advisor,Faculty Advisor,Not Applicable,bhavesh@iitrpr.ac.in
+Equal Opportunity Cell,Prof. C.M. Nagaraja,Professor,Chairman,Department of Chemistry,cmnraja@iitrpr.ac.in
+Equal Opportunity Cell,Dr. Danveer Singh,Assistant Professor,Liaison Officer for Scheduled Caste (SC) / Scheduled Tribe (ST) (Faculty/Staff),Department of Physics,danveer.singh@iitrpr.ac.in
+Equal Opportunity Cell,Dr. Kishant Kumar,Assistant Professor,Liaison Officer for Scheduled Caste (SC) / Scheduled Tribe (ST) (Students),Chemical Engineering,kishant@iitrpr.ac.in
+Equal Opportunity Cell,Dr. Geeta,Assistant Professor,Liaison Officer for Other Backward Classes (OBC) (Students),Computer Science Engineering,geeta@iitrpr.ac.in
+Equal Opportunity Cell,Dr. Jagpreet Singh,Assistant Professor,Liaison Officer for Other Backward Classes (OBC) (Faculty/Staff),Computer Science Engineering,jagpreets@iitrpr.ac.in
+Equal Opportunity Cell,Sh. Amod Kanhere,Assistant Registrar,Liaison Officer for PwD (Students),Academics,liaisonofficer.pwd@iitrpr.ac.in
+Fitness Club / ODAC,Dr. Mukesh Saini,"Faculty Advisor, ODAC","Faculty Advisor, ODAC",Not Applicable,mukesh@iitrpr.ac.in
+Girl Up Club,Dr. Neha Sardana,Faculty Advisor,Faculty Advisor,Not Applicable,nsardana@iitrpr.ac.in
+Hostel Management Committee,Dr. Indramani Dhada,"Chief Warden & Warden, Chenab Hostel","Chief Warden & Warden, Chenab Hostel Hostel",,chiefwarden@iitrpr.ac.in
+Hostel Management Committee,Mr. Deepanshu,"General Secretary, Board of Hostel Affairs","General Secretary, Board of Hostel Affairs",,gs.hostel@iitrpr.ac.in
+Hostel Management Committee,Mr. Shashank Shekhar,"President, Student Council","President, Student Council",,president.sc@iitrpr.ac.in
+Hostel Management Committee,Dr. Neeraj Goel,"Warden, Satluj Hostel","Warden, Satluj Hostel",,warden1.satluj@iitrpr.ac.in
+Hostel Management Committee,Dr. Ashwani Sharma,"Warden, Beas Hostel","Warden, Beas Hostel",,warden1.beas@iitrpr.ac.in
+Hostel Management Committee,Dr. Ravi Kumar,"Warden, Brahmaputra Hostel","Warden, Brahmaputra Hostel",,warden1.brahmaputra.boys@iitrpr.ac.in
+Hostel Management Committee,Dr. Shweta Jain,"Warden, Raavi Hostel",Warden,,warden1.raavi@iitrpr.ac.in
+Hostel Management Committee,Dr. Raheena M.,"Warden, Chintpurni Hostel","Warden, Chintpurni Hostel",,warden1.chintpurni@iitrpr.ac.in
+Hostel Management Committee,Dr. Arti Pandey,"Warden, T6 Hostel","Warden, T6 Hostel",,warden1.t6hostel@iitrpr.ac.in
+Hostel Management Committee,Dr. Sukrit Gupta,"Associate Warden, Brahmaputra","Associate Warden, Brahmaputra",,warden2.brahmaputra.boys@iitrpr.ac.in
+Hostel Management Committee,Dr. Loitongbam Gyanendro Singh,"Associate Warden, Beas","Associate Warden, Beas",,warden2.beas@iitrpr.ac.in
+Hostel Management Committee,Dr. Kishant Kumar,"Associate Warden, Satluj","Associate Warden, Satluj",,warden2.satluj@iitrpr.ac.in
+Hostel Management Committee,Dr. Rajiv Kumar,"Associate Warden, Chenab","Associate Warden, Chenab",,warden2.chenab@iitrpr.ac.in
+Hostel Management Committee,Dr. Shushma Rani,"Associate Warden, Raavi","Associate Warden, Raavi",,warden2.raavi@iitrpr.ac.in
+Hostel Management Committee,Dr. Abhilasha Nanda,"Associate Warden, Chintpurni","Associate Warden, Chintpurni",,warden2.chintpurni@iitrpr.ac.in
+Hostel Management Committee,Sh. Ravinder Kumar,Joint Registrar (Estate & Maintenance),Joint Registrar (Estate & Maintenance),,jr.enm@iitrpr.ac.in
+Hostel Management Committee,Sh. Hoshang Verma,Technical Officer (IT),Technical Officer (IT),,to.it@iitrpr.ac.in
+House Allotment Committee,Dr. Pardeep Duhan,Assistant Professor,Chairman,Electrical Engineering,
+House Allotment Committee,Dr. Santanu Sarkar,Assistant Professor,Member,Department of Mathematics,
+House Allotment Committee,Dr. Indranil Chatterjee,Associate Professor,Member,Department of Chemistry,
+House Allotment Committee,Dr. Jagpreet Singh,Assistant Professor,Member,Computer Science Engineering,
+House Allotment Committee,Sh. Ravinder Kumar,"Joint Registrar, Estate & Maintenance",Member Secretary,Work & Estate,
+House Allotment Committee,Sh. Vijay Singh,Assistant Registrar,Member,Accounts Section,
+IT Committee,Dr. Mudasir Ahmed,Assistant Professor,Chairperson,Computer Science Engineering,
+IT Committee,Dr. Sam Darshi,Assistant Professor,Vice-Chairman,Electrical Engineering,
+IT Committee,Dr. Basant Subba,Assistant Professor,Member,Computer Science Engineering,
+IT Committee,Dr. Sujata Pal,Associate Professor,Member,Computer Science Engineering,
+IT Committee,Dr. Jagpreet Singh,Assistant Professor,Member,Computer Science Engineering,
+IT Committee,Sh. Hoshang Verma,Technical Officer,Member Secretary,IT Section,
+Jammu & Kashmir Cell,Dr. Mahendra Sakre,Faculty Advisor,Faculty Advisor,Not Applicable,mahendra@iitrpr.ac.in
+Journalism Club,Dr. Dibyakusum Ray,Associate Professor,"Faculty Advisor, Journalism Club",,dibyakusum@iitrpr.ac.in
+NCC,Dr. Rajiv Kumar,Faculty Advisor,Faculty Advisor,Not Applicable,krajiv@iitrpr.ac.in
+NSS,Dr. Girish Kulkarni,Faculty Advisor,Faculty Advisor,Not Applicable,girishk@iitrpr.ac.in
+Snehita Wellbeing Cell,Dr. Parwinder Singh,Assistant Professor,Faculty Advisor,,"snehita@iitrpr.ac.in, singh_parwinder@iitrpr.ac.in"
+Snehita Wellbeing Cell,Dr. Dhiraj K. Mahajan,Associate Professor,Associate Faculty Advisor,,dhiraj.mahajan@iitrpr.ac.in

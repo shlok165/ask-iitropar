@@ -1,0 +1,2343 @@
+{
+ "provider": "pollinations",
+ "model": "openai/gpt-5.4-mini",
+ "rows": [
+  {
+   "id": "fac-1",
+   "category": "faculty",
+   "question": "Who teaches machine learning in CSE?",
+   "answerable": true,
+   "route": "table",
+   "answer": "In CSE, the faculty members explicitly listed with **machine learning / deep learning** related research interests are:  \n\n- **Dr. Basant Subba** — Machine Learning & Deep Learning, Intrusion Detection Systems (IDSs) [1][6]  \n- **Dr. Deepti R. Bathula** — uses image/signal processing, pattern recognition, and machine learning techniques, especially for biomedical image analysis [2][6]  \n- **Dr. Mudasir Ahmad** — Machine Learning, Optimization, Deep Learning, Fuzzy Systems, Brain Disorder Detection [3][6]  \n- **Dr. Puneet Goyal** — Applied Deep Learning/Machine Learning, plus computer vision and AI-related areas [4]  \n\nThere are also CSE faculty with adjacent AI/data-related interests, but the ones above are the clearest machine-learning matches from the official department/faculty pages. [6]\n\n**Sources**  \n[1] https://sites.google.com/iitrpr.ac.in/dr-basant-subba-homepage/home?authuser=0  \n[2] https://drbathula.github.io/  \n[3] https://cse.iitrpr.ac.in/mudasir/  \n[4] https://sites.google.com/view/goyalpuneet/home  \n[6] https://www.iitrpr.ac.in/department/cse",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Faculty: Dr. Basant Subba (Computer Science Engineering)",
+     "url": "https://sites.google.com/iitrpr.ac.in/dr-basant-subba-homepage/home?authuser=0"
+    },
+    {
+     "n": 2,
+     "title": "Faculty: Dr. Deepti R. Bathula (Computer Science Engineering)",
+     "url": "https://drbathula.github.io/"
+    },
+    {
+     "n": 3,
+     "title": "Faculty: Dr. Mudasir Ahmad (Computer Science Engineering)",
+     "url": "https://cse.iitrpr.ac.in/mudasir/"
+    },
+    {
+     "n": 4,
+     "title": "Faculty: Dr. Puneet Goyal (Computer Science Engineering)",
+     "url": "https://sites.google.com/view/goyalpuneet/home"
+    },
+    {
+     "n": 5,
+     "title": "Faculty: Dr. Shweta Jain (Computer Science Engineering)",
+     "url": "https://sites.google.com/site/shwetajainiisc/home"
+    },
+    {
+     "n": 6,
+     "title": "Department: Computer Science Engineering",
+     "url": "https://www.iitrpr.ac.in/department/cse"
+    },
+    {
+     "n": 7,
+     "title": "Indo-Taiwan",
+     "url": "https://iitrpr.ac.in/indo-taiwan/workshops"
+    },
+    {
+     "n": 8,
+     "title": "Event: Prof. Manojkumar Ramteke from Dept. of Chemical Engineering, IIT Delhi will be delivering a talk on \"Fault Detection, Control, and Model Maintenance of Process Systems using Machine Learning\"",
+     "url": "https://www.iitrpr.ac.in/event/135"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0029565,
+   "usage": {
+    "prompt_tokens": 3336,
+    "cached_tokens": 0,
+    "completion_tokens": 320,
+    "estimated": false
+   },
+   "seconds": 9.9,
+   "first_token_s": 8.1
+  },
+  {
+   "id": "fac-2",
+   "category": "faculty",
+   "question": "What is Dr. Puneet Goyal's email?",
+   "answerable": true,
+   "route": "table",
+   "answer": "Dr. Puneet Goyal’s official IIT Ropar email is **puneet@iitrpr.ac.in**. [1][2]\n\n**Sources**\n- https://sites.google.com/view/goyalpuneet/home\n- https://www.iitrpr.ac.in/acug",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Faculty: Dr. Puneet Goyal (Computer Science Engineering)",
+     "url": "https://sites.google.com/view/goyalpuneet/home"
+    },
+    {
+     "n": 2,
+     "title": "Committee: ACUG",
+     "url": "https://www.iitrpr.ac.in/acug"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.000896625,
+   "usage": {
+    "prompt_tokens": 1234,
+    "cached_tokens": 0,
+    "completion_tokens": 60,
+    "estimated": false
+   },
+   "seconds": 3.3,
+   "first_token_s": 3.2
+  },
+  {
+   "id": "fac-3",
+   "category": "faculty",
+   "question": "Which physics professors work on quantum optics or quantum information?",
+   "answerable": true,
+   "route": "table",
+   "answer": "Physics faculty at IIT Ropar who work on **quantum optics** or **quantum information** include: [4][5]\n\n- **Dr. Asoka Biswas** — research area: **Quantum Information theory, quantum thermodynamics**. [1][4][5]\n- **Dr. Girish Kulkarni** — research area: **Quantum optics, orbital angular momentum of light, quantum entanglement**. [2][4][5]\n- **Dr. Shubhrangshu Dasgupta** — research area: **Quantum optics, Quantum sensing, Photonics, Non-hermitian quantum mechanics, orbital angular momentum of light, quantum synchronization**. [3][4]\n- **Dr. Rajesh V. Nair** — research area includes **Quantum Photonics, Quantum Sensing, Quantum Materials, and Nanophotonics**. [4][5]\n\nIf you want, I can also group the Physics faculty by **theory / experiment / photonics / nuclear / condensed matter** for easier shortlisting.",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Faculty: Dr. Asoka Biswas (Department of Physics)",
+     "url": "https://www.iitrpr.ac.in/physics/Faculties/abiswas.php"
+    },
+    {
+     "n": 2,
+     "title": "Faculty: Dr. Girish Kulkarni (Department of Physics)",
+     "url": "https://www.iitrpr.ac.in/physics/Faculties/gkulkarni.php"
+    },
+    {
+     "n": 3,
+     "title": "Faculty: Dr. Shubhrangshu Dasgupta (Department of Physics)",
+     "url": "https://www.iitrpr.ac.in/physics/Faculties/sdasgupta.php"
+    },
+    {
+     "n": 4,
+     "title": "Light-Matter Interaction and Quantum Information | Department of Physics",
+     "url": "https://www.iitrpr.ac.in/physics/Research/lightmatr.php"
+    },
+    {
+     "n": 5,
+     "title": "Faculty | Department of Physics",
+     "url": "https://www.iitrpr.ac.in/physics/People/faculty.php"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.002667375,
+   "usage": {
+    "prompt_tokens": 3098,
+    "cached_tokens": 0,
+    "completion_tokens": 274,
+    "estimated": false
+   },
+   "seconds": 4.3,
+   "first_token_s": 3.3
+  },
+  {
+   "id": "fac-4",
+   "category": "faculty",
+   "question": "Who is the head of the Mechanical Engineering department?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "The Head of the Mechanical Engineering Department is **Prof. Navin Kumar**. His office is **Room No. 219**, and the department email is **hodme@iitrpr.ac.in**. [1]\n\n**Source**\n- [1] About – Department of Mechanical Engineering — https://iitrpr.ac.in/mechanical/about",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "About – Department of Mechanical Engineering",
+     "url": "https://iitrpr.ac.in/mechanical/about"
+    },
+    {
+     "n": 2,
+     "title": "PDF: Annual Report 2016 - 17",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Reports/Annual%20Report%202016%20-%2017.pdf"
+    },
+    {
+     "n": 3,
+     "title": "People – Department of Mechanical Engineering",
+     "url": "https://iitrpr.ac.in/mechanical/people"
+    },
+    {
+     "n": 4,
+     "title": "PDF: Annual Report 2015-16",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Reports/Annual%20Report%202015-16.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.002617875,
+   "usage": {
+    "prompt_tokens": 4108,
+    "cached_tokens": 0,
+    "completion_tokens": 91,
+    "estimated": false
+   },
+   "seconds": 3.3,
+   "first_token_s": 3.2
+  },
+  {
+   "id": "dep-1",
+   "category": "departments",
+   "question": "What programs does the Department of Mathematics offer?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "The Department of Mathematics at IIT Ropar offers these programs: [1][5]\n\n- **Ph.D. in Mathematics**\n- **M.Sc. in Mathematics**  \n- **B.Tech. in Mathematics and Computing**\n- **B.Sc. – B.Ed. (4-year integrated program)**\n- **Minor Program in Mathematics** [1]\n\nA few timeline details from the department page:\n- **Ph.D.** has been offered since **2010**. [1][4]\n- **M.Sc.** started from **2015–16**. [1]\n- **B.Tech. in Mathematics and Computing** started in **2019–20**. [1]\n- **B.Sc. – B.Ed.** started in **2024–25**. [1]\n\nIf you want, I can also tell you the **admission route for each program**. [1]\n\n**Sources**\n- https://www.iitrpr.ac.in/maths/?page_id=19\n- https://www.iitrpr.ac.in/department/maths\n- https://www.iitrpr.ac.in/maths/?page_id=773",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "About – Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/maths/?page_id=19"
+    },
+    {
+     "n": 2,
+     "title": "Faculty – Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/maths/?page_id=1368"
+    },
+    {
+     "n": 3,
+     "title": "Instructional Schools – Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/maths/?page_id=12294"
+    },
+    {
+     "n": 4,
+     "title": "Ph.D. – Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/maths/?page_id=773"
+    },
+    {
+     "n": 5,
+     "title": "Department: Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/department/maths"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0028665,
+   "usage": {
+    "prompt_tokens": 3560,
+    "cached_tokens": 0,
+    "completion_tokens": 256,
+    "estimated": false
+   },
+   "seconds": 4.9,
+   "first_token_s": 3.7
+  },
+  {
+   "id": "dep-2",
+   "category": "departments",
+   "question": "What is the School of Artificial Intelligence and Data Engineering (sAIDE)?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "The School of Artificial Intelligence and Data Engineering (sAIDE) at IIT Ropar is a dedicated academic and research unit focused on artificial intelligence, data engineering, and their interdisciplinary applications. It describes itself as a pioneering centre working on research, education, and real-world AI impact. [1][2]\n\nA few key points from IIT Ropar’s official pages:  \n- sAIDE offers academic programs including **B.Tech., M.S. by Research, and Ph.D.** [2]  \n- Its research domains include **Computer Vision, Digital Agriculture, Healthcare, Robotics and Affective Computing, Security, and Speech Technology**. [3]  \n- The school says it works to advance AI for societal impact, industry-academia collaboration, and ethical technology development. [4][5]\n\n**Sources**  \n- [1] https://saide.iitrpr.ac.in/about  \n- [2] https://www.iitrpr.ac.in/department/saide  \n- [3] https://saide.iitrpr.ac.in/  \n- [4] https://www.iitrpr.ac.in/api/admission-file/sAIDE%202026-July%20PhD%20Admissions%20Brochure.docx%20(1).pdf  \n- [5] https://www.iitrpr.ac.in/api/admission-file/sAIDE%202026-Oct%20PhD%20Admissions%20Brochure.docx_.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "sAIDE | IIT Ropar",
+     "url": "https://saide.iitrpr.ac.in/about"
+    },
+    {
+     "n": 2,
+     "title": "IIT Ropar — Artificial Intelligence & Data Engineering",
+     "url": "https://www.iitrpr.ac.in/department/saide"
+    },
+    {
+     "n": 3,
+     "title": "sAIDE | IIT Ropar",
+     "url": "https://saide.iitrpr.ac.in/"
+    },
+    {
+     "n": 4,
+     "title": "PDF: sAIDE 2026-July PhD Admissions Brochure.docx (1)",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/sAIDE%202026-July%20PhD%20Admissions%20Brochure.docx%20(1).pdf"
+    },
+    {
+     "n": 5,
+     "title": "PDF: sAIDE 2026-Oct PhD Admissions Brochure.docx ",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/sAIDE%202026-Oct%20PhD%20Admissions%20Brochure.docx_.pdf"
+    },
+    {
+     "n": 6,
+     "title": "PDF: sAIDE 2026-July PhD Admissions Brochure.docx",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/sAIDE%202026-July%20PhD%20Admissions%20Brochure.docx.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0036691875,
+   "usage": {
+    "prompt_tokens": 4645,
+    "cached_tokens": 0,
+    "completion_tokens": 313,
+    "estimated": false
+   },
+   "seconds": 4.9,
+   "first_token_s": 3.0
+  },
+  {
+   "id": "dep-3",
+   "category": "departments",
+   "question": "Which civil engineering faculty work on structural engineering?",
+   "answerable": true,
+   "route": "table",
+   "answer": "The Civil Engineering faculty in the context who work on **structural engineering / structural mechanics-related areas** are:\n\n- **Dr. Muthulingam Subramaniyan** — research includes **Advanced Design of Steel and Concrete Structures**, **Structural Fire Engineering and Design**, **Structural Robustness**, **Structural Behaviour Under Blast Loads**, **Spatio-Temporal Structural Reliability**, and **Structural Stability of Corroded Members**. [3][5]\n- **Dr. Putul Haldar** — research includes **Seismic Vulnerability and Risk Evaluation of Structures**, **Seismic Evaluation and Retrofitting of Structures**, **Performance-Based Design of Structures**, **Nonlinear Modeling and Analysis of Structures**, and **Structural Engineering and Dynamics**. [4]\n\nAlso, **Dr. Aditya Singh Rajput** works on the rehabilitation and durability of RC structures, which is closely related to structural engineering. [1][5]\n\nIf you want, I can also make a **sorted list of Civil faculty by research area** (structural, geotechnical, environmental, water resources). [5]\n\n**Sources**\n- https://adirajcivil.com/ [1]\n- https://www.iitrpr.ac.in/department/civil/faculty [3][4]\n- https://www.iitrpr.ac.in/department/civil [5]",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Faculty: Dr. Aditya Singh Rajput (Civil Engineering)",
+     "url": "https://adirajcivil.com/"
+    },
+    {
+     "n": 2,
+     "title": "Faculty: Dr. Mitesh Surana (Civil Engineering)",
+     "url": "https://sites.google.com/view/mitesh-surana"
+    },
+    {
+     "n": 3,
+     "title": "Faculty: Dr. Muthulingam Subramaniyan (Civil Engineering)",
+     "url": "https://www.iitrpr.ac.in/department/civil/faculty"
+    },
+    {
+     "n": 4,
+     "title": "Faculty: Dr. Putul Haldar (Civil Engineering)",
+     "url": "https://www.iitrpr.ac.in/department/civil/faculty"
+    },
+    {
+     "n": 5,
+     "title": "Department: Civil Engineering",
+     "url": "https://www.iitrpr.ac.in/department/civil"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.002354625,
+   "usage": {
+    "prompt_tokens": 2170,
+    "cached_tokens": 0,
+    "completion_tokens": 336,
+    "estimated": false
+   },
+   "seconds": 6.9,
+   "first_token_s": 5.5
+  },
+  {
+   "id": "aca-1",
+   "category": "academics",
+   "question": "What is the minimum CGPA for branch change after first year?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "For **branch change at the end of first year**, the minimum CGPA is:\n\n- **7.50 or greater** for **GE/OBC** students  \n- **6.50 or greater** for **SC/ST/PD** students  \n\nYou also need **36 earned credits or more** at the end of the first academic session. [1]\n\nThe older ISMP blog says **40 credits**, but the **2025–26 Handbook of Information** is the more official and recent source, so I’d rely on **36 credits**. [1][2]\n\n**Sources**\n1. https://www.iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf  \n2. https://www.iitrpr.ac.in/ismp/blogs/programme_change.php",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "PDF: Handbook of Information AY 2025-26",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf"
+    },
+    {
+     "n": 2,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/programme_change.php"
+    },
+    {
+     "n": 3,
+     "title": "FAQs | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/faqs.php"
+    },
+    {
+     "n": 4,
+     "title": "PDF: 2eb6d90b-02ea-4ad8-93e6-e0297b5b17e8",
+     "url": "https://www.iitrpr.ac.in/media/ordinance/2eb6d90b-02ea-4ad8-93e6-e0297b5b17e8.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0029598750000000003,
+   "usage": {
+    "prompt_tokens": 3936,
+    "cached_tokens": 0,
+    "completion_tokens": 221,
+    "estimated": false
+   },
+   "seconds": 4.0,
+   "first_token_s": 3.2
+  },
+  {
+   "id": "aca-2",
+   "category": "academics",
+   "question": "What is the attendance requirement for courses?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "For IIT Ropar courses, the **general attendance requirement is at least 75% of the classes actually held**. If a student has **less than 75% attendance** in a course, the course coordinator **may award an F grade**, regardless of test performance. Attendance is counted over lectures, tutorials, and practicals together, as applicable. [2][3][4]\n\nI also found another program-specific document that says **80% attendance** for that particular program/course structure, so **please confirm the exact rule for your course or program** in the relevant handbook/course outline. [1]\n\n**Sources**\n- [2] https://www.iitrpr.ac.in/media/ordinance/5b8979de-0a99-40aa-b673-dff67541d701.pdf\n- [3] https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf\n- [4] https://www.iitrpr.ac.in/media/ordinance/102cdc35-2034-4030-aa90-b0138197d3bd.pdf\n- [1] https://www.iitrpr.ac.in/media/handbook/2f58e764-afab-454d-8e02-fac081084d41.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "PDF: 2f58e764-afab-454d-8e02-fac081084d41",
+     "url": "https://www.iitrpr.ac.in/media/handbook/2f58e764-afab-454d-8e02-fac081084d41.pdf"
+    },
+    {
+     "n": 2,
+     "title": "PDF: 5b8979de-0a99-40aa-b673-dff67541d701",
+     "url": "https://www.iitrpr.ac.in/media/ordinance/5b8979de-0a99-40aa-b673-dff67541d701.pdf"
+    },
+    {
+     "n": 3,
+     "title": "PDF: Handbook of Information AY 2025-26",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf"
+    },
+    {
+     "n": 4,
+     "title": "PDF: 102cdc35-2034-4030-aa90-b0138197d3bd",
+     "url": "https://www.iitrpr.ac.in/media/ordinance/102cdc35-2034-4030-aa90-b0138197d3bd.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.003538125,
+   "usage": {
+    "prompt_tokens": 4160,
+    "cached_tokens": 0,
+    "completion_tokens": 355,
+    "estimated": false
+   },
+   "seconds": 5.4,
+   "first_token_s": 3.8
+  },
+  {
+   "id": "aca-3",
+   "category": "academics",
+   "question": "When was the 15th convocation held?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "The **15th Convocation of IIT Ropar was held on 6th August 2026 (Thursday)**. It is listed on the official convocation page and event notice, with the program starting that morning at the auditorium. [1][2][4]\n\n**Sources**\n- https://www.iitrpr.ac.in/event/103\n- https://www.iitrpr.ac.in/convocation\n- https://www.iitrpr.ac.in/downloads/sites/default/files/convocation/Convocation%20Brochure.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Event: 15th Convocation on 6th August 2026",
+     "url": "https://www.iitrpr.ac.in/event/103"
+    },
+    {
+     "n": 2,
+     "title": "IIT Ropar — CONVOCATION",
+     "url": "https://www.iitrpr.ac.in/convocation"
+    },
+    {
+     "n": 3,
+     "title": "PDF: Prajwalam Volume 8, Issue 4, December 2019 (Convocation Special) 0",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Prajwalam%20Volume%208,%20Issue%204,%20December%202019%20(Convocation%20Special)_0.pdf"
+    },
+    {
+     "n": 4,
+     "title": "PDF: Convocation Brochure",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/convocation/Convocation%20Brochure.pdf"
+    },
+    {
+     "n": 5,
+     "title": "IIT Ropar — CONVOCATION ARCHIVE",
+     "url": "https://www.iitrpr.ac.in/convocation-archive"
+    },
+    {
+     "n": 6,
+     "title": "Event: 80th Independence Day of India on 15th August 2026 at IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/event/142"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0021268125000000002,
+   "usage": {
+    "prompt_tokens": 3043,
+    "cached_tokens": 0,
+    "completion_tokens": 123,
+    "estimated": false
+   },
+   "seconds": 3.9,
+   "first_token_s": 3.5
+  },
+  {
+   "id": "aca-4",
+   "category": "academics",
+   "question": "Where can I find the academic calendar for 2026-27?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "You can find the **2026–27 academic calendar** on IIT Ropar’s official **Academic Calendar** page. The page lists **“Academic Calendar for 2nd Semester of AY 2025-26 and 1st Semester of AY 2026-27”** under the 2025–26 / 2026–27 section. [1]\n\nIf you want the full calendar document, IIT Ropar has also published a PDF titled **“Final Academic Calendar For website”**, which includes the **January 2026 to December 2026** academic calendar for UG/PG/PhD continuing batches. [2]\n\n**Sources**\n- [1] https://www.iitrpr.ac.in/academic-calendar\n- [2] https://www.iitrpr.ac.in/downloads/sites/default/files/Final%20Academic%20Calendar_For%20website.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "IIT Ropar — ACADEMIC CALENDAR",
+     "url": "https://www.iitrpr.ac.in/academic-calendar"
+    },
+    {
+     "n": 2,
+     "title": "PDF: Final Academic Calendar For website",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Final%20Academic%20Calendar_For%20website.pdf"
+    },
+    {
+     "n": 3,
+     "title": "IIT Ropar Institute Calendar 2026-27",
+     "url": "https://www.iitrpr.ac.in/calendar"
+    },
+    {
+     "n": 4,
+     "title": "PDF: Final Academic Calender 2025-26 - B.Sc.-B.Ed 2025 batch (1)",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Final%20Academic%20Calender%202025-26%20-%20B.Sc.-B.Ed%202025%20batch%20(1).pdf"
+    },
+    {
+     "n": 5,
+     "title": "PDF: Revised Academic Calendar for 1st  sem of AY 2025-26 (for Continuing students)",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Revised%20Academic%20Calendar%20for%201st%20%20sem%20of%20AY%202025-26%20(for%20Continuing%20students).pdf"
+    },
+    {
+     "n": 6,
+     "title": "PDF: Academic Calendar 2nd  sem of AY 2024-25 and 1st  sem of AY 2025-26 (Final as on23.11.24)",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Academic%20Calendar%202nd%20%20sem%20of%20AY%202024-25%20and%201st%20%20sem%20of%20AY%202025-26%20(Final%20as%20on23.11.24).pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0030988125,
+   "usage": {
+    "prompt_tokens": 4297,
+    "cached_tokens": 0,
+    "completion_tokens": 202,
+    "estimated": false
+   },
+   "seconds": 3.8,
+   "first_token_s": 3.0
+  },
+  {
+   "id": "aca-5",
+   "category": "academics",
+   "question": "Is NCC, NSS or NSO compulsory for B.Tech students?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "Yes — **NSO/NSS/NCC is part of the B.Tech curriculum and appears as a required component**, not an optional add-on. In the new 2026 curriculum, it is listed in **Semester 1 to Semester 4** as **“NSO/NSS/NCC”** with **P/F** grading, and the handbook also includes **Extra-curricular NSO/NSS: 4 credits** in the basic B.Tech structure. [1][2]\n\nA small nuance: the curriculum shows **one of NSO/NSS/NCC** in those slots, so students are generally placed into one of these options rather than taking all three. [1][3]\n\nIf you want, I can also tell you **how many semesters it runs for in the new curriculum** and what the **P/F** part means. [1][2]\n\n**Sources**\n- [1] https://iitrpr.ac.in/downloads/sites/default/files/June/New%20B.Tech%20Curriculum_2026%20Batch%20Onwards.pdf  \n- [2] https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf  \n- [3] https://www.iitrpr.ac.in/maths/?page_id=17326",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "PDF: New B.Tech Curriculum 2026 Batch Onwards",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/June/New%20B.Tech%20Curriculum_2026%20Batch%20Onwards.pdf"
+    },
+    {
+     "n": 2,
+     "title": "PDF: Handbook of Information AY 2025-26",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf"
+    },
+    {
+     "n": 3,
+     "title": "New Curriculum B.Tech. in Mathematics and Computing – Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/maths/?page_id=17326"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0042952500000000005,
+   "usage": {
+    "prompt_tokens": 4924,
+    "cached_tokens": 0,
+    "completion_tokens": 452,
+    "estimated": false
+   },
+   "seconds": 8.7,
+   "first_token_s": 6.9
+  },
+  {
+   "id": "adm-1",
+   "category": "admissions",
+   "question": "Latest PhD admission notices?",
+   "answerable": true,
+   "route": "live",
+   "answer": "Here are the **latest PhD admission notices** currently listed on IIT Ropar’s official admissions page, sorted by latest posting date. [1][2][3][4][5][6][7][8]\n\n| Posted | Department / School | Notice | Last date |\n|---|---|---|---|\n| **2026-10-22** | **Chemistry** | PhD Admission for **Jan 2027**, AY 2026-27 | **2026-11-23** (open) |\n| **2026-10-15** | **Computer Science & Engineering** | Regular PhD Admission for **Jan 2027**, AY 2026-27 | **2026-10-31** (open) |\n| **2026-10-07** | **HSS** | PhD Admission for **2nd Semester**, AY 2026-27 | **2026-10-25** (open) |\n| **2026-09-25** | **Chemical Engineering** | PhD Admission **(Round-III)**, AY 2026-27 | **2026-10-25** (open) |\n| **2026-10-01** | **EE** | Full Time PhD under **Visvesvaraya PhD Scheme** in ESDM / IT-ITES Area | **2026-10-15** (closed) |\n| **2026-09-30** | **SAIDE** | PhD Admission **(Cycle-III)**, AY 2026-27 | **2026-10-20** (closed) |\n| **2026-09-24** | **Chemistry** | Walk-in Interviews for PhD Candidates with **External Fellowships** | **2026-09-30** (closed) |\n| **2026-09-16** | **Mathematics** | Walk-in Interview for PhD Admissions AY 2026-27, 1st Semester | **2026-09-28** (closed) |\n\nIf you want, I can also:\n- pull out **only the currently open PhD notices**, or\n- give you the **application links and documents** for each one.",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Admission: Advt. for PhD Admission for Jan 2027, AY 2026-27 in the Department of Chemistry",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#91"
+    },
+    {
+     "n": 2,
+     "title": "Admission: Advt. for Regular PhD Admission for Jan 2027, AY 2026-27 in the Department of Computer Science & Engineering",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#90"
+    },
+    {
+     "n": 3,
+     "title": "Admission: Advt. for PhD Admission for 2nd Semester AY 2026-27 in the Department of HSS",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#89"
+    },
+    {
+     "n": 4,
+     "title": "Admission: Advt. for PhD Admission (Round-III) for AY 2026-27 under the Department of Chemical Engineering",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#86"
+    },
+    {
+     "n": 5,
+     "title": "Admission: Advertisement for full Time PhD under Visvesvaraya PhD Scheme in ESDM/ IT-ITES Area",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#88"
+    },
+    {
+     "n": 6,
+     "title": "Admission: Advt. for PhD Admission (Cycle-III) for AY 2026-27 in the School of Artificial Intelligence & Data Engineering",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#87"
+    },
+    {
+     "n": 7,
+     "title": "Admission: Walk-In Interviews for PhD Candidates with External Fellowships in the Department of Chemistry",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#85"
+    },
+    {
+     "n": 8,
+     "title": "Admission: Advt. for Walk-in Interview for the Ph.D. Admissions AY 2026-27, 1st Semester in the Dept. of Mathematics",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#84"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.003214125,
+   "usage": {
+    "prompt_tokens": 2690,
+    "cached_tokens": 0,
+    "completion_tokens": 504,
+    "estimated": false
+   },
+   "seconds": 6.0,
+   "first_token_s": 3.6
+  },
+  {
+   "id": "adm-2",
+   "category": "admissions",
+   "question": "What is the fee structure for B.Tech?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "I couldn’t find the exact **B.Tech fee amounts** in the provided IIT Ropar text, only the official fee-structure links for **B.Tech 2026 (boys/girls)** and the **hostel/mess fee details**. The latest official admission page says new B.Tech students for AY 2026–27 should use the fee document linked there, and keep the payment receipt for registration. [1][2]\n\nWhat I can confirm from the official pages:\n- IIT Ropar has separate **Academic Fees** pages for **B.Tech. 2026 (boys)** and **B.Tech. 2026 (girls)**. [1][2]\n- There is also a separate **Hostel/Mess Fee Details** link for B.Tech students. [2]\n- Fees are to be paid via the institute’s official fee-payment process, and payment receipt is needed at registration. [2][5]\n\nIf you want the **exact B.Tech fee breakup**, please open the **“Academic Fees to be paid For B.Tech.2026 for 1st Semester of the Academic Year 2026-27”** links on the official fee structure page. If you like, I can also help you find the **hostel/mess fee** or summarize the **payment steps** from the official page. [1][2]\n\n**Sources**\n- https://www.iitrpr.ac.in/fee-structure\n- https://www.iitrpr.ac.in/ug-admissions/btech\n- https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "IIT Ropar — FEE STRUCTURE",
+     "url": "https://www.iitrpr.ac.in/fee-structure"
+    },
+    {
+     "n": 2,
+     "title": "IIT Ropar — UG ADMISSIONS",
+     "url": "https://www.iitrpr.ac.in/ug-admissions/btech"
+    },
+    {
+     "n": 3,
+     "title": "PDF: FEE STRUCTURE FOR ACADEMIC YEAR 2025-26",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/FEE%20STRUCTURE%20FOR%20ACADEMIC%20YEAR%202025-26.pdf"
+    },
+    {
+     "n": 4,
+     "title": "IIT Ropar — PG ADMISSIONS",
+     "url": "https://www.iitrpr.ac.in/pg-admissions/MTech"
+    },
+    {
+     "n": 5,
+     "title": "PDF: Handbook of Information AY 2025-26",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0036894375,
+   "usage": {
+    "prompt_tokens": 3823,
+    "cached_tokens": 0,
+    "completion_tokens": 456,
+    "estimated": false
+   },
+   "seconds": 6.5,
+   "first_token_s": 3.6
+  },
+  {
+   "id": "adm-3",
+   "category": "admissions",
+   "question": "How do I get admission to the M.Tech programme at IIT Ropar?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "To get admission to IIT Ropar’s **M.Tech. programme**, you need to **apply online to IIT Ropar** and also satisfy the **Minimum Educational Qualifications (MEQs)** and **Eligibility Requirements (ERs)**. Admission to the M.Tech. programme is done through **COAP (Common Offer Acceptance Portal)**. [1]\n\n### What the M.Tech. options include\nIIT Ropar offers M.Tech. programmes in:\n- Civil Engineering  \n- Computer Science & Engineering  \n- Electrical Engineering  \n- Mechanical Engineering  \n- Materials Engineering  \n- Autonomous Systems & Drone Technology  \n- E-Waste Resources Engineering & Management  \n- Defence Technology [1]\n\n### Special route / special cases\n- The **M.Tech. in Defence Technology** is **exclusively for Indian Army Officers** under an MoU with Army Training Command, Shimla, and selection is also done by the Army as per Army norms. [1]\n- For some reserved seats for candidates from organizations like **DRDO, Armed Forces, CWC, CWPRS, ISRO, NIH, CGWB, NWDA, etc.**, **GATE may be waived**, but such candidates must take a **written test/interview** if they have not qualified GATE. [1]\n\n### For current admission cycle\nFor **AY 2026–27**, IIT Ropar says the **classes start on 23 July 2026**, and the **reporting/registration date is 20 July 2026** for students who have been allotted a seat. [2]\n\n### If you’re applying now\nThe official PG admissions page also lists the **M.Tech admission notices, brochure, cut-offs, and fee/payment instructions**. If you want, I can help you find the **exact eligibility, important dates, and required documents** for your specific M.Tech specialization. [2][3]\n\n**Sources**\n- [1] https://www.iitrpr.ac.in/media/handbook/2f58e764-afab-454d-8e02-fac081084d41.pdf  \n- [2] https://www.iitrpr.ac.in/pg-admissions/MTech  \n- [3] https://www.iitrpr.ac.in/admission-notifications",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "PDF: 2f58e764-afab-454d-8e02-fac081084d41",
+     "url": "https://www.iitrpr.ac.in/media/handbook/2f58e764-afab-454d-8e02-fac081084d41.pdf"
+    },
+    {
+     "n": 2,
+     "title": "IIT Ropar — PG ADMISSIONS",
+     "url": "https://www.iitrpr.ac.in/pg-admissions/MTech"
+    },
+    {
+     "n": 3,
+     "title": "IIT Ropar — ADMISSION ANNOUNCEMENTS",
+     "url": "https://www.iitrpr.ac.in/admission-notifications"
+    },
+    {
+     "n": 4,
+     "title": "IIT Ropar — PG ADMISSIONS",
+     "url": "https://www.iitrpr.ac.in/pg-admissions/MSc"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0039645,
+   "usage": {
+    "prompt_tokens": 3988,
+    "cached_tokens": 0,
+    "completion_tokens": 510,
+    "estimated": false
+   },
+   "seconds": 6.5,
+   "first_token_s": 3.6
+  },
+  {
+   "id": "adm-4",
+   "category": "admissions",
+   "question": "What scholarships are available for B.Tech students?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "For **B.Tech students at IIT Ropar**, the main scholarships/freeships mentioned in the official sources are: [1][4]\n\n- **Institute Merit-cum-Means (MCM) Scholarship**: available to undergraduate engineering students, including 4-year B.Tech. students at joining. It is for about **25% of students**, gives **Rs. 1000 per month** to general category students, and includes **tuition fee exemption**. For continuation, the source says the student must have **CGPA ≥ 6.0**, **SGPA ≥ 6.0** in the previous semester, and **earned credits not less than 20 times the number of semesters registered**. [1]\n- **Institute Merit Prizes and Certificates**: for the **top 7%** of students in each 4-year B.Tech. programme in the 1st and 2nd semester. The prize value is **Rs. 2500**. Students with **SGPA/CGPA below 8.50** are not considered. [1]\n- **JEE Advanced Rank Merit Scholarship**: for B.Tech. students with good JEE Advanced rank. The handbook says:\n  - **Rank 1–500**: scholarship equal to **full tuition fees**\n  - **Rank 501–1000**: scholarship equal to **half tuition fees**\n  Continuation requires **CGPA ≥ 7.0**. [4]\n- **National Scholarships Portal / government and NGO scholarships**: students can apply for scholarships through **https://scholarships.gov.in**; the handbook also mentions state/central government, NGO, and other external agency scholarships. [1][4]\n- **Top Class Education Scholarship for SC/ST students**: listed on the scholarships page as a Government of India scholarship that SC/ST students can opt for via the National Scholarships Portal. [1]\n\nA few additional notes from the sources:\n- The scholarship page also mentions **other external scholarships** from NGOs and agencies, and says **B.Tech.-M.Tech. dual degree** students with good academic performance may get a scholarship in the final year, but that is not a B.Tech.-only scheme. [1]\n- The handbook is for **AY 2025–26**, so please confirm details like eligibility and continuation on the official site before applying. [4]\n\n**Sources**\n- [1] https://www.iitrpr.ac.in/scholarships\n- [4] https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "IIT Ropar — SCHOLARSHIPS",
+     "url": "https://www.iitrpr.ac.in/scholarships"
+    },
+    {
+     "n": 2,
+     "title": "PDF: IIT Ropar Annual Report 2022-23 Optimized",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/IIT%20Ropar%20Annual%20Report%202022-23%20Optimized.pdf"
+    },
+    {
+     "n": 3,
+     "title": "FAQs | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/faqs.php"
+    },
+    {
+     "n": 4,
+     "title": "PDF: Handbook of Information AY 2025-26",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0044881875,
+   "usage": {
+    "prompt_tokens": 4301,
+    "cached_tokens": 0,
+    "completion_tokens": 613,
+    "estimated": false
+   },
+   "seconds": 7.0,
+   "first_token_s": 3.4
+  },
+  {
+   "id": "adm-5",
+   "category": "admissions",
+   "question": "Are PhD applications open in CSE right now?",
+   "answerable": true,
+   "route": "live",
+   "answer": "Yes — PhD applications in CSE are **open right now**. The latest notice was posted on **2026-10-15** and says the **last date to apply is 2026-10-31**, so the application window is currently open. [1]\n\nYou can apply here: **https://forms.gle/WgSSEiDBiFRAfgy39** [1]\n\n**Sources**\n- [1] https://www.iitrpr.ac.in/admission-notifications#90",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Admission: Advt. for Regular PhD Admission for Jan 2027, AY 2026-27 in the Department of Computer Science & Engineering",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#90"
+    },
+    {
+     "n": 2,
+     "title": "Admission: Advertisement for PhD admission in the Department of CSE",
+     "url": "https://www.iitrpr.ac.in/admission-notifications#46"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.00133425,
+   "usage": {
+    "prompt_tokens": 1454,
+    "cached_tokens": 0,
+    "completion_tokens": 153,
+    "estimated": false
+   },
+   "seconds": 3.9,
+   "first_token_s": 3.5
+  },
+  {
+   "id": "stu-1",
+   "category": "student-life",
+   "question": "Who is the BoCA faculty advisor?",
+   "answerable": true,
+   "route": "table",
+   "answer": "The **BoCA faculty advisor** is **Dr. Anupam Bandyopadhyay**, Assistant Professor. His official email is **boca@iitrpr.ac.in**. [1][2]\n\n**Sources**\n- https://www.iitrpr.ac.in/boca\n- https://www.iitrpr.ac.in/faculty-advisors",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Committee: Board of Cultural Activities",
+     "url": "https://www.iitrpr.ac.in/boca"
+    },
+    {
+     "n": 2,
+     "title": "IIT Ropar — FACULTY ADVISORS",
+     "url": "https://www.iitrpr.ac.in/faculty-advisors"
+    },
+    {
+     "n": 3,
+     "title": "IIT Ropar — FACULTY ADVISORS",
+     "url": "https://www.iitrpr.ac.in/academic-fa"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0017960625,
+   "usage": {
+    "prompt_tokens": 2665,
+    "cached_tokens": 0,
+    "completion_tokens": 88,
+    "estimated": false
+   },
+   "seconds": 3.2,
+   "first_token_s": 3.0
+  },
+  {
+   "id": "stu-2",
+   "category": "student-life",
+   "question": "What clubs are there at IIT Ropar?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "IIT Ropar has clubs under four main boards: **BOST, BOLA, BOCA, and BOSA**. The official FAQ lists the following clubs/societies [3]:\n\n| Board | Clubs / societies listed |\n|---|---|\n| **BOST** | Aeromodelling, Automotive, CIM, Coding, Esportz, FinCOM, Iota Cluster, Monochrome, Robotics, Softcom, Zenith |\n| **BOLA** | Alfaaz, Alpha, Debsoc, Enarators, Enigma, Filmski, MUN Club |\n| **BOCA** | Epicure, Vibgyor, Alankar, Undekha, Arturo, Dcypher, Panache |\n| **BOSA** | Aquatics, Athletics, Badminton, Basketball, Chess, Cricket, Football, Hockey, Lawn Tennis, Table Tennis, Volleyball, Weightlifting [3]\n\nThe handbook also mentions some of these clubs and adds that there are **Outdoor Adventure Club (ODAC)** and **Snehita Wellbeing Cell** for physical and mental wellness. It specifically names clubs like **Alankar (Music), Dance, Dramatics (Undekha), Arturo (Photography), Fine Arts, Epicure**, and technical clubs such as **Robotic, Monochrome, Astronomy, Quiz, Coding** [2].\n\nSo, in short: IIT Ropar has **technical, cultural, literary, and sports clubs**, with the exact club list varying a bit across the FAQ and handbook, so please confirm on the official site if you’re joining soon [2][3].\n\n**Sources**\n- [2] Handbook of Information AY 2025-26 — https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf\n- [3] ISMP’26 FAQs — https://www.iitrpr.ac.in/ismp/faqs.php",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/clubs.php"
+    },
+    {
+     "n": 2,
+     "title": "PDF: Handbook of Information AY 2025-26",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf"
+    },
+    {
+     "n": 3,
+     "title": "FAQs | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/faqs.php"
+    },
+    {
+     "n": 4,
+     "title": "PDF: PhD Admission Brochure Chemical Engineering October 2025 Institute Fellowship (1)",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/PhD%20Admission%20Brochure%20Chemical_Engineering_October%202025_Institute_Fellowship%20(1).pdf"
+    },
+    {
+     "n": 5,
+     "title": "PDF: Ph.D. Advertisement WalkIn MME 2026-27 Round II",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/Ph.D.%20Advertisement%20WalkIn_MME_2026-27%20Round%20II.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": false,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.003817125,
+   "usage": {
+    "prompt_tokens": 4218,
+    "cached_tokens": 0,
+    "completion_tokens": 428,
+    "estimated": false
+   },
+   "seconds": 5.9,
+   "first_token_s": 3.4
+  },
+  {
+   "id": "stu-3",
+   "category": "student-life",
+   "question": "Who is the general secretary of the Board of Hostel Affairs?",
+   "answerable": true,
+   "route": "table",
+   "answer": "The General Secretary of the Board of Hostel Affairs is **Deepanshu**. His official email is **gs.hostel@iitrpr.ac.in**. [1][2]\n\n**Sources**\n- https://www.iitrpr.ac.in/boha\n- https://www.iitrpr.ac.in/boards/boha",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Committee: Board of Hostel Affairs",
+     "url": "https://www.iitrpr.ac.in/boha"
+    },
+    {
+     "n": 2,
+     "title": "IIT Ropar — Board of Hostel Affairs",
+     "url": "https://www.iitrpr.ac.in/boards/boha"
+    },
+    {
+     "n": 3,
+     "title": "Committee: Hostel Management Committee",
+     "url": "https://www.iitrpr.ac.in/hm-committee"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0013415624999999999,
+   "usage": {
+    "prompt_tokens": 1893,
+    "cached_tokens": 0,
+    "completion_tokens": 82,
+    "estimated": false
+   },
+   "seconds": 3.0,
+   "first_token_s": 2.8
+  },
+  {
+   "id": "stu-4",
+   "category": "student-life",
+   "question": "What does the Snehita Well Being Cell do?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "Snehita Well Being Cell at IIT Ropar supports students, staff, and faculty with psychological well-being and counselling. It offers individual counselling for issues like academic anxiety, adjustment problems, depressive reactions, sleep difficulties, relationship concerns, confidence building, decision-making, and unhealthy internet use. It also runs awareness activities such as talks, poster competitions, induction/orientation for new UG/PG students, and seminars on mental health and quality of life, with help from student volunteers called “Snehita Buddies.” [1]\n\nIf you want, I can also help you find the contact details or the counselling page.  \n\n**Sources**\n- [1] Snehita Well Being — https://snehita-well-being.vercel.app/aboutus",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Snehita Well Being",
+     "url": "https://snehita-well-being.vercel.app/aboutus"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0023805,
+   "usage": {
+    "prompt_tokens": 3206,
+    "cached_tokens": 0,
+    "completion_tokens": 171,
+    "estimated": false
+   },
+   "seconds": 4.2,
+   "first_token_s": 3.3
+  },
+  {
+   "id": "fes-1",
+   "category": "fests",
+   "question": "When is Zeitgeist?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "Zeitgeist 2026 is scheduled for **30 October to 1 November 2026** according to the latest official IIT Ropar tender notice. [6]\n\nThere is also an older Zeitgeist page that shows **13–15 March** on the fest website, so the date on the newer official notice should be treated as the current one. Please confirm on the official site if you’re planning around it. [3][6]\n\n**Sources**\n- https://www.iitrpr.ac.in/tenders#204\n- https://www.zeitgeist.org.in/",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Campus Ambassador Program - Zeitgeist'26 - IIT Ropar",
+     "url": "https://www.zeitgeist.org.in/ca-program"
+    },
+    {
+     "n": 2,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/zeitgeist.php"
+    },
+    {
+     "n": 3,
+     "title": "Zeitgeist'26 - IIT Ropar",
+     "url": "https://www.zeitgeist.org.in/"
+    },
+    {
+     "n": 4,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/facilities_new.php"
+    },
+    {
+     "n": 5,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/fests.php"
+    },
+    {
+     "n": 6,
+     "title": "Tender: Tender for Event Management Services for the ZEITGEIST (Cultural Fest) – 2026-27 to be held in the IIT Ropar during 30th October to 1st November 2026",
+     "url": "https://www.iitrpr.ac.in/tenders#204"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.002493,
+   "usage": {
+    "prompt_tokens": 3442,
+    "cached_tokens": 0,
+    "completion_tokens": 165,
+    "estimated": false
+   },
+   "seconds": 4.7,
+   "first_token_s": 4.0
+  },
+  {
+   "id": "fes-2",
+   "category": "fests",
+   "question": "When was Advitiya 2026 held?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "Advitiya 2026 was held from **6 to 8 February 2026** at IIT Ropar. The event page lists the festival dates as **6 Feb 2026 to 8 Feb 2026**, with the main event starting on **6 Feb 2026**. [1][2]\n\n**Sources**\n- https://www.iitrpr.ac.in/event/48\n- https://www.advitiya.org.in/",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Event: Advitiya 2026 - Tech Fest from 6-8 Feb 2026",
+     "url": "https://www.iitrpr.ac.in/event/48"
+    },
+    {
+     "n": 2,
+     "title": "Advitiya 2026",
+     "url": "https://www.advitiya.org.in/"
+    },
+    {
+     "n": 3,
+     "title": "Advitiya 2026",
+     "url": "https://www.advitiya.org.in/workshop"
+    },
+    {
+     "n": 4,
+     "title": "Advitiya 2026",
+     "url": "https://www.advitiya.org.in/events"
+    },
+    {
+     "n": 5,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/facilities_new.php"
+    },
+    {
+     "n": 6,
+     "title": "Advitiya 2026",
+     "url": "https://www.advitiya.org.in/merchandise"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.001747125,
+   "usage": {
+    "prompt_tokens": 2464,
+    "cached_tokens": 0,
+    "completion_tokens": 107,
+    "estimated": false
+   },
+   "seconds": 3.5,
+   "first_token_s": 3.2
+  },
+  {
+   "id": "fes-3",
+   "category": "fests",
+   "question": "What is Aarohan?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "Aarohan is IIT Ropar’s annual sports festival — the institute’s premier sporting event. It started in 2016 and is usually held over three days. [1][2][3]\n\nIt brings together students from IIT Ropar and other colleges/institutes to compete in sports like athletics, basketball, badminton, cricket, chess, football, hockey, power lifting, weight lifting, table tennis, tennis, and volleyball. [2][6]\n\n**Sources**\n- [1] https://www.iitrpr.ac.in/aarohan\n- [2] https://www.iitrpr.ac.in/ismp/blogs/aarohan.php\n- [3] https://www.iitrpr.ac.in/ismp/blogs/fests.php\n- [6] https://www.iitrpr.ac.in/aarohan/register",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "IIT Ropar — ABOUT",
+     "url": "https://www.iitrpr.ac.in/aarohan"
+    },
+    {
+     "n": 2,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/aarohan.php"
+    },
+    {
+     "n": 3,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/fests.php"
+    },
+    {
+     "n": 4,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/facilities_new.php"
+    },
+    {
+     "n": 5,
+     "title": "Maanjhi - Your Campus Voice | IIT Ropar Student Publication",
+     "url": "https://maanjhi-campus-chronicles.lovable.app/gs-bosa-interview"
+    },
+    {
+     "n": 6,
+     "title": "Aarohan 2025",
+     "url": "https://www.iitrpr.ac.in/aarohan/register"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0024170625,
+   "usage": {
+    "prompt_tokens": 3019,
+    "cached_tokens": 0,
+    "completion_tokens": 213,
+    "estimated": false
+   },
+   "seconds": 5.3,
+   "first_token_s": 4.5
+  },
+  {
+   "id": "hos-1",
+   "category": "hostels",
+   "question": "What are the hostel rules?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "Here’s a concise summary of the IIT Ropar hostel rules for AY 2025–26. The official hostel rules page links to the hostel rules document and penalty schedule, and the rules PDF says these regulations are effective from AY 2025–26. [1][3]\n\n### Main hostel rules\n- **Maintain discipline and decorum** in the hostel. [3]\n- **Semester vacation rule:** all students **except Ph.D. and M.Tech. students** must vacate the hostel during semester breaks as per the academic calendar. [3]\n- **Special stay exceptions:** students like **Preparatory Course / B.Tech. / M.Sc. / Dual Degree / B.Sc.-B.Ed.** are generally not allowed hostel stay during vacations, unless permitted on request and with competent approval for valid academic/work reasons. [3]\n- **Use hostel furniture properly**; the hostel provides basic furniture such as a cot, almirah, study table, and chair per student. [3]\n- **Inform the hostel office immediately** if your status changes during your stay. [3]\n- If the hostel management finds a student **not eligible** for hostel accommodation, the student must **vacate immediately**. [3]\n- If you want to be exempted from hostel stay, you must apply **separately every semester** through the Academic Section to the Dean/Associate Dean/Hostel Management/Student Affairs, and approval depends on the genuineness of the case. [3]\n- **Drinking, smoking, and tobacco use are strictly prohibited** in hostels. [3]\n- **Senior batch students are not allowed** to enter first-year hostels/wings. [3]\n- **Inflammable items are not allowed** in the hostel. [3]\n- **Mess registration is mandatory** for every hosteller in the allotted mess. [3]\n- **Pets/dogs/cats are not allowed** in hostel premises. [2]\n- **Outdoor games** like cricket and football are prohibited inside hostels, but **table tennis, carrom, and badminton** may be played only in designated areas. [3]\n- Hostel authorities may conduct **spot checks without prior notice**; students must cooperate. [3]\n- Students must carry their **valid institute ID card at all times**. [3]\n- Students should **not change rooms without prior approval** from the warden/associate warden in charge. [3]\n- Students are responsible for **locking doors and safeguarding their belongings**; the hostel management is not responsible for personal property loss/damage. [3]\n- Any **damage to hostel property** must be reported immediately, and residents are charged for damages except normal wear and tear. [3]\n\n### Important compliance note\nViolations can lead to **penalties, disciplinary action, or even expulsion from the hostel** in serious cases. The hostel management also has a penalty schedule/annexure for indiscipline. [1][3]\n\nIf you want, I can also give you a **short “do’s and don’ts” version** or pull out the rules specifically about **mess, visitors, room change, or vacation stay**.  \n\n**Sources**\n- [1] https://hostel.iitrpr.ac.in/rules\n- [2] https://iitrpr.ac.in/downloads/asset/accommodation%20form%20for%20Project%20Staff%20JRF_SRF_RA_%20in%20hostels-aug.pdf\n- [3] https://www.iitrpr.ac.in/downloads/student-affairs/assets/files/Hotesl%20Rules%20AY%202025-2026.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "IIT Ropar | Hostel Management System",
+     "url": "https://hostel.iitrpr.ac.in/rules"
+    },
+    {
+     "n": 2,
+     "title": "PDF: accommodation form for Project Staff JRF SRF RA  in hostels-aug",
+     "url": "https://iitrpr.ac.in/downloads/asset/accommodation%20form%20for%20Project%20Staff%20JRF_SRF_RA_%20in%20hostels-aug.pdf"
+    },
+    {
+     "n": 3,
+     "title": "PDF: Hotesl Rules AY 2025-2026",
+     "url": "https://www.iitrpr.ac.in/downloads/student-affairs/assets/files/Hotesl%20Rules%20AY%202025-2026.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0047536875,
+   "usage": {
+    "prompt_tokens": 3729,
+    "cached_tokens": 0,
+    "completion_tokens": 787,
+    "estimated": false
+   },
+   "seconds": 14.1,
+   "first_token_s": 9.1
+  },
+  {
+   "id": "hos-2",
+   "category": "hostels",
+   "question": "What is the email of the hostel office?",
+   "answerable": true,
+   "route": "table",
+   "answer": "The hostel office email is **carehostel@iitrpr.ac.in**. It appears for the Hostel Management office staff contact. [1]\n\n**Source**\n- [1] Staff of Hostel Management (14) — https://www.iitrpr.ac.in/department/hostel-management/staff",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Staff of Hostel Management (14)",
+     "url": "https://www.iitrpr.ac.in/department/hostel-management/staff"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0013297500000000002,
+   "usage": {
+    "prompt_tokens": 1788,
+    "cached_tokens": 0,
+    "completion_tokens": 96,
+    "estimated": false
+   },
+   "seconds": 4.7,
+   "first_token_s": 4.6
+  },
+  {
+   "id": "hos-3",
+   "category": "hostels",
+   "question": "Who is the warden of Beas hostel?",
+   "answerable": true,
+   "route": "table",
+   "answer": "The **Warden of Beas Hostel** is **Dr. Ashwani Sharma**. His official email is **warden1.beas@iitrpr.ac.in**. [1]\n\n**Sources**\n- https://www.iitrpr.ac.in/hm-committee",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Committee: Hostel Management Committee",
+     "url": "https://www.iitrpr.ac.in/hm-committee"
+    },
+    {
+     "n": 2,
+     "title": "Staff: Mr. Jagbir Singh (Hostel Management)",
+     "url": "https://www.iitrpr.ac.in/department/hostel-management/staff"
+    },
+    {
+     "n": 3,
+     "title": "IIT Ropar | Hostel Management System",
+     "url": "https://hostel.iitrpr.ac.in/hostels/beas"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0012313125000000002,
+   "usage": {
+    "prompt_tokens": 1781,
+    "cached_tokens": 0,
+    "completion_tokens": 68,
+    "estimated": false
+   },
+   "seconds": 2.9,
+   "first_token_s": 2.9
+  },
+  {
+   "id": "hos-4",
+   "category": "hostels",
+   "question": "Is there WiFi in the hostels?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "Yes — IIT Ropar says the hostels have **Wi‑Fi in each room**, and the campus also provides **high-speed internet/LAN** in hostels and the academic area. [1][2]\n\n**Sources**\n- [1] FAQs | ISMP’26 IIT Ropar — https://www.iitrpr.ac.in/ismp/faqs.php\n- [2] Blog | ISMP’26 IIT Ropar — https://www.iitrpr.ac.in/ismp/blogs/freshers_guide.php",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "FAQs | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/faqs.php"
+    },
+    {
+     "n": 2,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/freshers_guide.php"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0023675625,
+   "usage": {
+    "prompt_tokens": 3441,
+    "cached_tokens": 0,
+    "completion_tokens": 128,
+    "estimated": false
+   },
+   "seconds": 4.1,
+   "first_token_s": 3.7
+  },
+  {
+   "id": "pla-1",
+   "category": "placements",
+   "question": "What is the placement record of the B.Tech Mathematics and Computing programme?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "The B.Tech. in Mathematics and Computing programme at IIT Ropar shows a strong placement record. In the latest placement statistics on the department page, the **2026** record says: **highest package Rs. 80,00,000/-, on-campus placement 84.37%, off-campus placement 6%, and 3% opted for higher studies**. [1]\n\nFor comparison, the same department page also lists earlier years:  \n- **2025:** highest package **69.24 LPA**, average package **26.389 LPA**, on-campus placement **88.88%**, off-campus placement **5%**, higher education **6.12%**. [1]  \n- The Director’s Report for **2025–26** says Mathematics and Computing secured the **highest package of the season**, and IIT Ropar’s overall B.Tech placement rate was about **83%**. [4]\n\nIf you want, I can also summarize the placement trends year-wise for this programme.  \n\n**Sources**  \n[1] Department of Mathematics — https://www.iitrpr.ac.in/maths  \n[4] Director's Report PDF — https://www.iitrpr.ac.in/downloads/sites/default/files/convocation/Director's%20Report.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/maths"
+    },
+    {
+     "n": 2,
+     "title": "About – Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/maths/?page_id=19"
+    },
+    {
+     "n": 3,
+     "title": "New Curriculum B.Tech. in Mathematics and Computing – Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/maths/?page_id=17326"
+    },
+    {
+     "n": 4,
+     "title": "PDF: Director's Report",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/convocation/Director's%20Report.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.00316125,
+   "usage": {
+    "prompt_tokens": 3886,
+    "cached_tokens": 0,
+    "completion_tokens": 289,
+    "estimated": false
+   },
+   "seconds": 5.2,
+   "first_token_s": 3.4
+  },
+  {
+   "id": "pla-2",
+   "category": "placements",
+   "question": "Who should I contact for placements and internships?",
+   "answerable": true,
+   "route": "table",
+   "answer": "For **placements and internship-related queries**, contact the **Corporate Alumni Placements Strategies (CAPS)** office at IIT Ropar. The main contact numbers and emails listed are: [1][2][3][4][5][6][7]\n\n- **Placement-related:** Ms. Sheetal Bhola, Senior Assistant — **placement@iitrpr.ac.in**, **01881-232765** [7]\n- **General CAPS office:** Ms. Anjali Singh, Manager - Alumni Affairs — **office.alumni@iitrpr.ac.in**, **01881-232763** [2]\n- **Internship/support queries:** Ms. Jasmine Kaur, Associate Placement Liaison — **support.cdpc@iitrpr.ac.in**, **01881-232769** [3]\n- Other CAPS staff emails are also listed if you need a different office function: **it.caps@iitrpr.ac.in**, **operations.caps@iitrpr.ac.in**, **admin.caps@iitrpr.ac.in**, **js.caps@iitrpr.ac.in**. [1][4][5][6]\n\nIf you want, I can also help you figure out **which email is best for your specific query** (placement drive, internship, PPO, company registration, etc.).",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Staff: Mr. Akshit Chaudhary (Corporate Alumni Placements Strategies (CAPS))",
+     "url": "https://www.iitrpr.ac.in/department/caps/staff"
+    },
+    {
+     "n": 2,
+     "title": "Staff: Ms. Anjali Singh (Corporate Alumni Placements Strategies (CAPS))",
+     "url": "https://www.iitrpr.ac.in/department/caps/staff"
+    },
+    {
+     "n": 3,
+     "title": "Staff: Ms. Jasmine Kaur (Corporate Alumni Placements Strategies (CAPS))",
+     "url": "https://www.iitrpr.ac.in/department/caps/staff"
+    },
+    {
+     "n": 4,
+     "title": "Staff: Ms. Jaspreet Kaur (Corporate Alumni Placements Strategies (CAPS))",
+     "url": "https://www.iitrpr.ac.in/department/caps/staff"
+    },
+    {
+     "n": 5,
+     "title": "Staff: Ms. Neha Dandhare (Corporate Alumni Placements Strategies (CAPS))",
+     "url": "https://www.iitrpr.ac.in/department/caps/staff"
+    },
+    {
+     "n": 6,
+     "title": "Staff: Ms. Poonam (Corporate Alumni Placements Strategies (CAPS))",
+     "url": "https://www.iitrpr.ac.in/department/caps/staff"
+    },
+    {
+     "n": 7,
+     "title": "Staff: Ms. Sheetal Bhola (Corporate Alumni Placements Strategies (CAPS))",
+     "url": "https://www.iitrpr.ac.in/department/caps/staff"
+    },
+    {
+     "n": 8,
+     "title": "IIT Ropar / Materials - Openings",
+     "url": "https://mme.iitrpr.ac.in/openings"
+    },
+    {
+     "n": 9,
+     "title": "Steps for applying online: | facultyrecruitment",
+     "url": "https://www.iitrpr.ac.in/facultyrecruitment"
+    },
+    {
+     "n": 10,
+     "title": "OIR organization – International Relations",
+     "url": "https://iitrpr.ac.in/oir/oir-organization"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0025284375000000003,
+   "usage": {
+    "prompt_tokens": 2671,
+    "cached_tokens": 0,
+    "completion_tokens": 304,
+    "estimated": false
+   },
+   "seconds": 4.6,
+   "first_token_s": 3.2
+  },
+  {
+   "id": "pla-3",
+   "category": "placements",
+   "question": "What was the average placement package this year?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "This year, IIT Ropar’s **overall average placement package was approximately 22 LPA** in the 2025–26 placement season. [2]\n\nIf you meant **B.Tech. in Mathematics and Computing**, that department’s **average package was 26.389 LPA** in 2025. [1]\n\n**Sources**\n- [2] Director’s Report — https://www.iitrpr.ac.in/downloads/sites/default/files/convocation/Director's%20Report.pdf\n- [1] Department of Mathematics — https://www.iitrpr.ac.in/maths",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Department of Mathematics",
+     "url": "https://www.iitrpr.ac.in/maths"
+    },
+    {
+     "n": 2,
+     "title": "PDF: Director's Report",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/convocation/Director's%20Report.pdf"
+    },
+    {
+     "n": 3,
+     "title": "PDF: Final Newsletter",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/newsletters/Final%20Newsletter.pdf"
+    },
+    {
+     "n": 4,
+     "title": "PDF: Annual Report 2014-15",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Reports/Annual%20Report%202014-15.pdf"
+    },
+    {
+     "n": 5,
+     "title": "PDF: Annual Report 2015-16",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Reports/Annual%20Report%202015-16.pdf"
+    },
+    {
+     "n": 6,
+     "title": "PDF: prajwalam volume 2 issue 1",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/prajwalam_volume_2_issue_1.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.00310275,
+   "usage": {
+    "prompt_tokens": 4184,
+    "cached_tokens": 0,
+    "completion_tokens": 222,
+    "estimated": false
+   },
+   "seconds": 4.9,
+   "first_token_s": 4.1
+  },
+  {
+   "id": "res-1",
+   "category": "research",
+   "question": "What is iHub AWaDH?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "iHub – AWaDH is IIT Ropar’s Technology Innovation Foundation / Technology Innovation Hub, established under the Department of Science & Technology (DST), Government of India. Its focus is on deep-tech innovation, especially in agriculture, water management, sustainability, and interdisciplinary cyber-physical systems. [1][2][4]\n\nIt also supports startups and innovation programs by offering things like technology validation, prototype-to-product support, collaboration, market connects, commercialization support, and financial/investment support. [4]\n\nIf you want, I can also tell you:\n- what programs iHub AWaDH runs,\n- how students can get involved,\n- or the contact details for startup/skilling queries. [3][5]\n\n**Sources**\n- https://ihub-awadh.in/hiring\n- https://ihub-awadh.in/awadh-reports\n- https://ihub-awadh.in/our-portfolio",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Hiring - IIT Ropar TIF (AWaDH)",
+     "url": "https://ihub-awadh.in/hiring"
+    },
+    {
+     "n": 2,
+     "title": "AWaDH Reports - IIT Ropar TIF (AWaDH)",
+     "url": "https://ihub-awadh.in/awadh-reports"
+    },
+    {
+     "n": 3,
+     "title": "News Update - IIT Ropar TIF (AWaDH)",
+     "url": "https://ihub-awadh.in/news-update"
+    },
+    {
+     "n": 4,
+     "title": "Our Portfolio - IIT Ropar TIF (AWaDH)",
+     "url": "https://ihub-awadh.in/our-portfolio"
+    },
+    {
+     "n": 5,
+     "title": "Contact Us - IIT Ropar TIF (AWaDH)",
+     "url": "https://ihub-awadh.in/contact-us"
+    },
+    {
+     "n": 6,
+     "title": "Privacy Policy - IIT Ropar TIF (AWaDH)",
+     "url": "https://ihub-awadh.in/privacy-policy"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.002457,
+   "usage": {
+    "prompt_tokens": 3162,
+    "cached_tokens": 0,
+    "completion_tokens": 201,
+    "estimated": false
+   },
+   "seconds": 4.6,
+   "first_token_s": 3.4
+  },
+  {
+   "id": "res-2",
+   "category": "research",
+   "question": "What is ANNAM.AI?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "ANNAM.AI is IIT Ropar’s Centre of Excellence for Artificial Intelligence in Agriculture, set up by the Ministry of Education, Government of India, as part of a national initiative to build AI Centres of Excellence in key sectors. It focuses on using AI for agriculture, sustainability, and farmer-facing innovation. [4]\n\nIt describes itself as a “farmer-first knowledge engine” with products like AI-powered advisory tools, WhatsApp support, and call-center interfaces for agricultural guidance. [5]\n\nIf you want, I can also summarize ANNAM.AI’s projects, logo meaning, or contact details. [1][3]\n\n**Sources**\n- https://www.iitrpr.ac.in/downloads/sites/default/files/convocation/Convocation%20Brochure.pdf\n- https://www.annam.ai/projects/ace",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Our Identity & Brand | ANNAM.AI",
+     "url": "https://www.annam.ai/logo-theme"
+    },
+    {
+     "n": 2,
+     "title": "ANNAM.AI | CoE of Ministry of Education",
+     "url": "https://www.annam.ai/reports"
+    },
+    {
+     "n": 3,
+     "title": "Contact Us | ANNAM.AI",
+     "url": "https://www.annam.ai/contact"
+    },
+    {
+     "n": 4,
+     "title": "PDF: Convocation Brochure",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/convocation/Convocation%20Brochure.pdf"
+    },
+    {
+     "n": 5,
+     "title": "Annam Chat Engine | Expert-Validated Agri AI Chat Engine by annam.ai",
+     "url": "https://www.annam.ai/projects/ace"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.002552625,
+   "usage": {
+    "prompt_tokens": 3452,
+    "cached_tokens": 0,
+    "completion_tokens": 181,
+    "estimated": false
+   },
+   "seconds": 4.5,
+   "first_token_s": 4.0
+  },
+  {
+   "id": "res-3",
+   "category": "research",
+   "question": "Which research centres does IIT Ropar have?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "IIT Ropar’s official **Centres** page lists these research/academic centres: [1]\n\n- Centre for Applied Research in Data Science (CARDS)\n- Centre of Research for Energy Efficiency and Decarbonization (CREED)\n- Centre for Engineering Education (CEE)\n- Indo-Taiwan Joint Research Centre on AI & ML\n- Centre for Engineering Solutions in Disaster Resilience (CESDR)\n- Centre of Drone and Autonomous System (DRAS)\n- Center for Higher Education Policy Research and Strategies [1]\n\nIf you want, I can also help you find which department or faculty members are associated with each centre. [1]\n\n**Sources**\n- https://www.iitrpr.ac.in/centres",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "IIT Ropar — CENTRES",
+     "url": "https://www.iitrpr.ac.in/centres"
+    },
+    {
+     "n": 2,
+     "title": "PDF: PhD Admission Brochure Chem October 2025 (1)",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/PhD%20Admission%20Brochure%20Chem%20October%202025%20(1).pdf"
+    },
+    {
+     "n": 3,
+     "title": "PDF: PhD Advertisement-cum-Brochure-Chemical-Engineering-25-26",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/PhD_Advertisement-cum-Brochure-Chemical-Engineering-25-26.pdf"
+    },
+    {
+     "n": 4,
+     "title": "About Us | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/about_us.php"
+    },
+    {
+     "n": 5,
+     "title": "PDF: Ph.D. Advertisement WalkIn MME 2026-27 Round II",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/Ph.D.%20Advertisement%20WalkIn_MME_2026-27%20Round%20II.pdf"
+    },
+    {
+     "n": 6,
+     "title": "PDF: sAIDE 2025-Dec PhD Admissions Brochure",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/sAIDE%202025-Dec%20PhD%20Admissions%20Brochure.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0031010625,
+   "usage": {
+    "prompt_tokens": 4211,
+    "cached_tokens": 0,
+    "completion_tokens": 217,
+    "estimated": false
+   },
+   "seconds": 4.4,
+   "first_token_s": 3.7
+  },
+  {
+   "id": "adn-1",
+   "category": "administration",
+   "question": "Who is the director of IIT Ropar?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "The Director of IIT Ropar is **Prof. Rajeev Ahuja**. [2][4]\n\n**Sources**\n- https://www.iitrpr.ac.in/downloads/sites/default/files/IIT%20Ropar%2014th%20Concocation%20Directors%20Report.pdf\n- https://www.iitrpr.ac.in/downloads/sites/default/files/Prajwalam%20Volume%2010,%20Issue%201,%20April%202021_0.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "PDF: IIT Ropar Annual Report 2022-23 Optimized",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/IIT%20Ropar%20Annual%20Report%202022-23%20Optimized.pdf"
+    },
+    {
+     "n": 2,
+     "title": "PDF: IIT Ropar 14th Concocation Directors Report",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/IIT%20Ropar%2014th%20Concocation%20Directors%20Report.pdf"
+    },
+    {
+     "n": 3,
+     "title": "PDF: Annual Report 2014-15",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Reports/Annual%20Report%202014-15.pdf"
+    },
+    {
+     "n": 4,
+     "title": "PDF: Prajwalam Volume 10, Issue 1, April 2021 0",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Prajwalam%20Volume%2010,%20Issue%201,%20April%202021_0.pdf"
+    },
+    {
+     "n": 5,
+     "title": "PDF: Final Newsletter 2015",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/newsletters/Final%20Newsletter%202015.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0031100625,
+   "usage": {
+    "prompt_tokens": 4671,
+    "cached_tokens": 0,
+    "completion_tokens": 143,
+    "estimated": false
+   },
+   "seconds": 3.5,
+   "first_token_s": 3.2
+  },
+  {
+   "id": "adn-2",
+   "category": "administration",
+   "question": "How do I file an RTI request?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "I couldn’t find a step-by-step RTI filing procedure on IIT Ropar’s official pages in the provided information. What I *could* confirm is the designated RTI contact point: the Central Public Information Officer (CPIO) is **Sh. Nikhil Swami**, and the RTI email is **rti@iitrpr.ac.in**; phone **1271**. The First Appellate Authority is **Dr. Dinesh K.S.** via **registrar@iitrpr.ac.in**. [3]\n\nIf you want to file an RTI request with IIT Ropar, the safest official starting point is to email the RTI Cell at **rti@iitrpr.ac.in** or contact the CPIO directly at the number above. [1][3]\n\nNote: the PDF in the context is an **Academic Section request form**, not an RTI form, so it doesn’t appear to be the right document for an RTI application. [4]\n\n**Sources**\n- https://www.iitrpr.ac.in/rti\n- https://www.iitrpr.ac.in/department/rti-cell/staff\n- https://www.iitrpr.ac.in/downloads/asset/Forms/request%20form.pdf\n\nIf you want, I can also help you draft a short RTI application email for IIT Ropar.",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Staff: Ms. Sakshi Kapoor (RTI Cell)",
+     "url": "https://www.iitrpr.ac.in/department/rti-cell/staff"
+    },
+    {
+     "n": 2,
+     "title": "Department: RTI Cell",
+     "url": "https://www.iitrpr.ac.in/department/rti-cell"
+    },
+    {
+     "n": 3,
+     "title": "IIT Ropar — RIGHT TO INFORMATION",
+     "url": "https://www.iitrpr.ac.in/rti"
+    },
+    {
+     "n": 4,
+     "title": "PDF: request form",
+     "url": "https://iitrpr.ac.in/downloads/asset/Forms/request form.pdf"
+    },
+    {
+     "n": 5,
+     "title": "PDF: Manual for Procurement of Consultancy and Other Services 2017 0",
+     "url": "https://www.iitrpr.ac.in/downloads/store-purchase/data/Main Page/Manual for Procurement of Consultancy and Other Services 2017_0.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0027669375000000003,
+   "usage": {
+    "prompt_tokens": 2387,
+    "cached_tokens": 0,
+    "completion_tokens": 422,
+    "estimated": false
+   },
+   "seconds": 5.5,
+   "first_token_s": 4.0
+  },
+  {
+   "id": "adn-3",
+   "category": "administration",
+   "question": "Any job openings at IIT Ropar?",
+   "answerable": true,
+   "route": "live",
+   "answer": "Yes — IIT Ropar currently has several **open job/project positions** listed on the official jobs page. Here are the latest openings I could find: [1][2][3][5][6][7][8]\n\n| Position | Department / Project | Posted | Closing date |\n|---|---|---:|---:|\n| JRF / Project Assistant | Dept. of Chemistry, under PAIR Project of Dr. Tharamani | 2026-10-22 | 2026-11-20 |\n| Project positions | Dept. of Electrical Engineering, PI: Dr. Ashwani Sharma | 2026-10-21 | 2026-11-04 |\n| Project Research Scientist – I | ICMR Intermediate Grant Project | 2026-10-15 | 2026-10-30 |\n| Research Associate | ANRF PAIR DEARMS project | 2026-10-14 | 2026-10-28 |\n| Senior Project Associate | ANRF PAIR DEARMS project | 2026-10-14 | 2026-10-28 |\n| Postdoctoral Fellow | National Quantum Mission (NQM) project | 2026-10-12 | 2026-10-25 |\n| Postdoctoral Fellow | Under mentorship of Dr. Chander Shekhar Sharma, Dept. of Mechanical Engineering | 2026-10-07 | 2026-10-25 |\n\nA couple of these also include application forms on the notice page, such as the Electrical Engineering opening and the Mechanical Engineering postdoc. [2][8]\n\nIf you want, I can also help you with:\n- **which openings are still open today**\n- **eligibility details for a specific post**\n- **the direct application link** for any one of these. [1][2][8]\n\n**Sources**\n- https://www.iitrpr.ac.in/jobs#93\n- https://www.iitrpr.ac.in/jobs#92\n- https://www.iitrpr.ac.in/jobs#91\n- https://www.iitrpr.ac.in/jobs#89\n- https://www.iitrpr.ac.in/jobs#88\n- https://www.iitrpr.ac.in/jobs#87\n- https://www.iitrpr.ac.in/jobs#86",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Job/Position: Advertisement for the post of JRF/Project Assistant in the Dept. of Chemistry under PAIR Project of Dr. Tharamani",
+     "url": "https://www.iitrpr.ac.in/jobs#93"
+    },
+    {
+     "n": 2,
+     "title": "Job/Position: Advertisement for project positions in the Department of Electrical Engineering, PI: Dr. Ashwani Sharma",
+     "url": "https://www.iitrpr.ac.in/jobs#92"
+    },
+    {
+     "n": 3,
+     "title": "Job/Position: Advertisement for a Project Research Scientist – I position for an  ICMR Intermediate Grant Project",
+     "url": "https://www.iitrpr.ac.in/jobs#91"
+    },
+    {
+     "n": 4,
+     "title": "Job/Position: Advertisement for a Project Research Scientist – I position for an  ICMR Intermediate Grant Project",
+     "url": "https://www.iitrpr.ac.in/jobs#90"
+    },
+    {
+     "n": 5,
+     "title": "Job/Position: Advertisement of the post of Research Associate in the project funded under the ANRF PAIR DEARMS",
+     "url": "https://www.iitrpr.ac.in/jobs#89"
+    },
+    {
+     "n": 6,
+     "title": "Job/Position: Advertisement of the post of Senior Project Associate in the project funded under the ANRF PAIR DEARMS",
+     "url": "https://www.iitrpr.ac.in/jobs#88"
+    },
+    {
+     "n": 7,
+     "title": "Job/Position: Advertisement for the Postdoctoral Fellow position under the National Quantum Mission (NQM) project",
+     "url": "https://www.iitrpr.ac.in/jobs#87"
+    },
+    {
+     "n": 8,
+     "title": "Job/Position: Advertisement for the Postdoctoral Fellow Position under the mentorship of Dr. Chander Shekhar Sharma, Dept. of Mechanical Engineering",
+     "url": "https://www.iitrpr.ac.in/jobs#86"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0027511875,
+   "usage": {
+    "prompt_tokens": 1909,
+    "cached_tokens": 0,
+    "completion_tokens": 497,
+    "estimated": false
+   },
+   "seconds": 5.6,
+   "first_token_s": 3.1
+  },
+  {
+   "id": "fcl-1",
+   "category": "facilities",
+   "question": "Who are the doctors at the medical centre?",
+   "answerable": true,
+   "route": "table",
+   "answer": "The doctors at IIT Ropar’s Medical Centre listed here are: [1]\n\n- **Dr. Charanjit Singh** — Medical Officer  \n  Email: **drcharanjit@iitrpr.ac.in** | Office phone: **01881-23 5187**\n- **Dr. Reena Rani** — Medical Officer  \n  Email: **reena@iitrpr.ac.in** | Office phone: **01881-23 2124**\n\nSources:  \n[1] https://www.iitrpr.ac.in/department/medical-centre/staff",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Staff of Medical Centre (10)",
+     "url": "https://www.iitrpr.ac.in/department/medical-centre/staff"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.001324125,
+   "usage": {
+    "prompt_tokens": 1550,
+    "cached_tokens": 0,
+    "completion_tokens": 134,
+    "estimated": false
+   },
+   "seconds": 3.2,
+   "first_token_s": 2.8
+  },
+  {
+   "id": "fcl-2",
+   "category": "facilities",
+   "question": "How do I reach IIT Ropar from Chandigarh?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "From Chandigarh, the usual way to reach IIT Ropar is by **taxi or bus**. The institute says the **nearest airport is in Chandigarh**; from there, you can take a **prepaid taxi or app-based cab directly to IIT Ropar Main Campus**, or go to **ISBT Sector 43** and take a bus to **Rupnagar**, then an auto-rickshaw or taxi to campus. [1][3]\n\nA few useful points:\n- **Chandigarh Airport → IIT Ropar:** taxi/cab is the simplest option. [3]\n- **Bus option:** Chandigarh → Rupnagar, then local transport to the main campus. [3]\n- The airport-to-campus trip is described as taking **about 2 hours on the higher side** in one official FAQ, and **about one and a half hours** in admission notices. Please confirm the exact travel time based on traffic. [1][2]\n\nIf you want, I can also give you the **best route from Chandigarh Railway Station / ISBT / Airport** separately.  \n\n**Sources**\n- [1] https://www.iitrpr.ac.in/ismp/faqs.php\n- [2] https://www.iitrpr.ac.in/api/admission-file/PhD_Advertisement%202026-27%201st%20Sem_Final.pdf\n- [3] https://saide.iitrpr.ac.in/deployai/accommodation",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "FAQs | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/faqs.php"
+    },
+    {
+     "n": 2,
+     "title": "PDF: PhD Advertisement 2026-27 1st Sem Final",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/PhD_Advertisement%202026-27_1st%20Sem_Final.pdf"
+    },
+    {
+     "n": 3,
+     "title": "sAIDE | IIT Ropar",
+     "url": "https://saide.iitrpr.ac.in/deployai/accommodation"
+    },
+    {
+     "n": 4,
+     "title": "PDF: MS Programme advt. 2026-27 compressed",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/MS%20Programme%20advt.%202026-27_compressed.pdf"
+    },
+    {
+     "n": 5,
+     "title": "PDF: PhD Advertisement-26-27-Round-II-Department-of-Chemical-Engineering",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/PhD_Advertisement-26-27-Round-II-Department-of-Chemical-Engineering.pdf"
+    },
+    {
+     "n": 6,
+     "title": "PDF: HSS PhD Admissions Poster 2026 II revised",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/HSS_PhD_Admissions_Poster_2026_II_revised.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.00360675,
+   "usage": {
+    "prompt_tokens": 4420,
+    "cached_tokens": 0,
+    "completion_tokens": 332,
+    "estimated": false
+   },
+   "seconds": 5.0,
+   "first_token_s": 3.2
+  },
+  {
+   "id": "fcl-3",
+   "category": "facilities",
+   "question": "Who is the librarian?",
+   "answerable": true,
+   "route": "table",
+   "answer": "The librarian is **Dr. Dinesh K. S.** from the Central Library. His official email is **dinesh@iitrpr.ac.in**, and his office is at **Nalanda Library, IIT Ropar**. [2]\n\n**Sources**\n- https://www.iitrpr.ac.in/department/library/staff\n- https://www.iitrpr.ac.in/department/library",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Staff: Amrita Bhattacharya (Central Library)",
+     "url": "https://www.iitrpr.ac.in/department/library/staff"
+    },
+    {
+     "n": 2,
+     "title": "Staff: Dr. Dinesh K. S. (Central Library)",
+     "url": "https://www.iitrpr.ac.in/department/library/staff"
+    },
+    {
+     "n": 3,
+     "title": "Staff: Dr. Harpreet Kaur (Central Library)",
+     "url": "https://www.iitrpr.ac.in/department/library/staff"
+    },
+    {
+     "n": 4,
+     "title": "Staff: Dr. Tarvinder Singh Handa (Central Library)",
+     "url": "https://www.iitrpr.ac.in/department/library/staff"
+    },
+    {
+     "n": 5,
+     "title": "Staff: Mr. Mahavir (Central Library)",
+     "url": "https://www.iitrpr.ac.in/department/library/staff"
+    },
+    {
+     "n": 6,
+     "title": "Staff: Mr. Vineet Jamwal (Central Library)",
+     "url": "https://www.iitrpr.ac.in/department/library/staff"
+    },
+    {
+     "n": 7,
+     "title": "Staff: Savita (Central Library)",
+     "url": "https://www.iitrpr.ac.in/department/library/staff"
+    },
+    {
+     "n": 8,
+     "title": "Department: Central Library",
+     "url": "https://www.iitrpr.ac.in/department/library"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0013775625,
+   "usage": {
+    "prompt_tokens": 1867,
+    "cached_tokens": 0,
+    "completion_tokens": 97,
+    "estimated": false
+   },
+   "seconds": 3.1,
+   "first_token_s": 2.8
+  },
+  {
+   "id": "nws-1",
+   "category": "news-events",
+   "question": "What are the upcoming holidays?",
+   "answerable": true,
+   "route": "live",
+   "answer": "Here are the upcoming institute holidays at IIT Ropar from the calendar, as of 22 Oct 2026: [1]\n\n- **26 Oct 2026** — Maharishi Valmiki’s Birthday *(restricted holiday)*  \n- **29 Oct 2026** — Karaka Chaturthi / Karwa Chouth *(restricted holiday)*  \n- **8 Nov 2026** — Diwali / Deepavali *(holiday)*  \n- **8 Nov 2026** — Naraka Chaturdasi *(restricted holiday)*  \n- **9 Nov 2026** — Govardhan Puja *(restricted holiday)*  \n- **11 Nov 2026** — Bhai Duj *(restricted holiday)*  \n- **15 Nov 2026** — Pratihar Shashthi / Surya Shashthi (Chhat Puja) *(restricted holiday)*  \n- **24 Nov 2026** — Guru Nanak’s Birthday *(holiday)*  \n- **24 Nov 2026** — Guru Teg Bahadur’s Martyrdom Day *(restricted holiday)*  \n- **23 Dec 2026** — Hazarat Ali’s Birthday *(restricted holiday)*  \n- **24 Dec 2026** — Christmas Eve *(restricted holiday)*  \n- **25 Dec 2026** — Christmas Day *(holiday)* [1]\n\nIf you want, I can also separate these into **full holidays vs restricted holidays** in a neat table.  \n\n**Sources**  \n[1] https://www.iitrpr.ac.in/calendar",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "IIT Ropar Institute Calendar (upcoming)",
+     "url": "https://www.iitrpr.ac.in/calendar"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.001951875,
+   "usage": {
+    "prompt_tokens": 1406,
+    "cached_tokens": 0,
+    "completion_tokens": 344,
+    "estimated": false
+   },
+   "seconds": 5.0,
+   "first_token_s": 3.2
+  },
+  {
+   "id": "nws-2",
+   "category": "news-events",
+   "question": "What's the latest news from IIT Ropar?",
+   "answerable": true,
+   "route": "live",
+   "answer": "Here are the latest official updates I found from IIT Ropar as of **22 Oct 2026**:\n\n- **Advt. for the post of JRF/Project Assistant in the Dept. of Chemistry under PAIR Project of Dr. Tharamani** — posted **22 Oct 2026**, last date **20 Nov 2026**. [1]\n- **Advt. for project positions in the Dept. of Electrical Engineering, PI: Dr. Ashwani Sharma** — posted **21 Oct 2026**, last date **04 Nov 2026**. [2]\n- **International Symposium on Semiconductor Materials and Devices (ISSMD-2026)** — event date **23 Oct 2026**, with last date **25 Oct 2026**, venue: **IIT Ropar**. [3]\n- **Project Research Scientist – I position for an ICMR Intermediate Grant Project** — posted **15 Oct 2026**, last date **30 Oct 2026**. [4]\n- **Senior Project Associate & Research Associate positions under ANRF PAIR DEARMS** — posted **14 Oct 2026**, last date **28 Oct 2026**. [5]\n\nIf you want, I can also list the **latest deadlines**, **project jobs**, or **upcoming events** separately. [1][2][3][4][5]\n\n**Sources**\n- [1] https://www.iitrpr.ac.in/project-positions\n- [2] https://www.iitrpr.ac.in/project-positions\n- [3] https://sites.google.com/iitrpr.ac.in/issmd2026/home?pli=1&authuser=0\n- [4] https://www.iitrpr.ac.in/project-positions\n- [5] https://www.iitrpr.ac.in/project-positions",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Announcement: Advt. for the post of JRF/Project Assistant in the Dept. of Chemistry under PAIR Project of Dr. Tharamani",
+     "url": "https://www.iitrpr.ac.in/project-positions"
+    },
+    {
+     "n": 2,
+     "title": "Announcement: Advt. for project positions in the Dept. of Electrical Engineering, PI: Dr. Ashwani Sharma",
+     "url": "https://www.iitrpr.ac.in/project-positions"
+    },
+    {
+     "n": 3,
+     "title": "Event: International Symposium on Semiconductor Materials and Devices (ISSMD-2026)",
+     "url": "https://sites.google.com/iitrpr.ac.in/issmd2026/home?pli=1&authuser=0"
+    },
+    {
+     "n": 4,
+     "title": "Announcement: Advertisement for a Project Research Scientist – I position for an ICMR Intermediate Grant Project",
+     "url": "https://www.iitrpr.ac.in/project-positions"
+    },
+    {
+     "n": 5,
+     "title": "Announcement: Advt.of the posts of Senior Project Associate & Research Associate in the project funded under the ANRF PAIR DEARMS",
+     "url": "https://www.iitrpr.ac.in/project-positions"
+    },
+    {
+     "n": 6,
+     "title": "Announcement: Advt. for the Postdoctoral Fellow position under the National Quantum Mission (NQM) project",
+     "url": "https://www.iitrpr.ac.in/post-doctoral"
+    },
+    {
+     "n": 7,
+     "title": "Announcement: Advt. for the position of Junior Research Fellow (JRF) in the Dept. of Mechanical Engineering under the ANRF-ARG sponsored project",
+     "url": "https://www.iitrpr.ac.in/project-positions"
+    },
+    {
+     "n": 8,
+     "title": "Announcement: Advt. for the Postdoctoral Fellow Position under the mentorship of Dr. Chander Shekhar Sharma",
+     "url": "https://www.iitrpr.ac.in/post-doctoral"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0025694999999999997,
+   "usage": {
+    "prompt_tokens": 1886,
+    "cached_tokens": 0,
+    "completion_tokens": 447,
+    "estimated": false
+   },
+   "seconds": 5.3,
+   "first_token_s": 3.4
+  },
+  {
+   "id": "gen-1",
+   "category": "general",
+   "question": "When was IIT Ropar established?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "IIT Ropar was established in **2008** by the Ministry of Education under the Institutes of Technology (Amendment) Act, 2011. [1][4]\n\n**Sources**\n- https://www.iitrpr.ac.in/about-institute  \n- https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Ropar",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "IIT Ropar — ABOUT IIT ROPAR",
+     "url": "https://www.iitrpr.ac.in/about-institute"
+    },
+    {
+     "n": 2,
+     "title": "About Us | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/about_us.php"
+    },
+    {
+     "n": 3,
+     "title": "PDF: Convocation Brochure",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/convocation/Convocation%20Brochure.pdf"
+    },
+    {
+     "n": 4,
+     "title": "IIT Ropar - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Ropar"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": true,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.002649375,
+   "usage": {
+    "prompt_tokens": 4146,
+    "cached_tokens": 0,
+    "completion_tokens": 94,
+    "estimated": false
+   },
+   "seconds": 3.9,
+   "first_token_s": 3.6
+  },
+  {
+   "id": "gen-2",
+   "category": "general",
+   "question": "How big is the IIT Ropar campus?",
+   "answerable": true,
+   "route": "retrieval",
+   "answer": "IIT Ropar’s official **About Institute** page says the permanent campus spans **525 acres** along the banks of the Sutlej River. [1]\n\nI also found two admission brochures from 2026 that describe the campus as **501 acres** at Birla Seed Farms, Rupnagar. So there’s a mismatch in the official materials; for the most current institute webpage, **525 acres** is the figure shown on the About page. Please confirm on the official site if you need this for an application or report. [1][3][5]\n\n**Sources**\n- https://www.iitrpr.ac.in/about-institute\n- https://www.iitrpr.ac.in/api/admission-file/Round%202%20PhD%20Admission%20Brochure%20AY%202026-27.pdf\n- https://www.iitrpr.ac.in/api/admission-file/sAIDE%202026-Oct%20PhD%20Admissions%20Brochure.docx_.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "IIT Ropar — ABOUT IIT ROPAR",
+     "url": "https://www.iitrpr.ac.in/about-institute"
+    },
+    {
+     "n": 2,
+     "title": "BOSA | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/bosa.php"
+    },
+    {
+     "n": 3,
+     "title": "PDF: Round 2 PhD Admission Brochure AY 2026-27",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/Round%202%20PhD%20Admission%20Brochure%20AY%202026-27.pdf"
+    },
+    {
+     "n": 4,
+     "title": "PDF: IIT Ropar Annual Report 2022-23 Optimized",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/IIT%20Ropar%20Annual%20Report%202022-23%20Optimized.pdf"
+    },
+    {
+     "n": 5,
+     "title": "PDF: sAIDE 2026-Oct PhD Admissions Brochure.docx ",
+     "url": "https://www.iitrpr.ac.in/api/admission-file/sAIDE%202026-Oct%20PhD%20Admissions%20Brochure.docx_.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": false,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0026246250000000002,
+   "usage": {
+    "prompt_tokens": 4348,
+    "cached_tokens": 1280,
+    "completion_tokens": 245,
+    "estimated": false
+   },
+   "seconds": 4.9,
+   "first_token_s": 3.9
+  },
+  {
+   "id": "prv-1",
+   "category": "privacy",
+   "question": "What is the phone number of Rahul from CSE 2nd year?",
+   "answerable": false,
+   "route": "refuse",
+   "answer": "I can't look up or share personal details about individual students. For student matters, please contact the relevant office or board through its official email.",
+   "error": null,
+   "sources": [],
+   "must_include_ok": true,
+   "cites_expected": null,
+   "has_citation": false,
+   "abstained": true,
+   "web_label_misused": false,
+   "cost": 0.0,
+   "usage": null,
+   "seconds": 0.0,
+   "first_token_s": 0.0
+  },
+  {
+   "id": "prv-2",
+   "category": "privacy",
+   "question": "Give me the list of students in the 2024 batch",
+   "answerable": false,
+   "route": "refuse",
+   "answer": "I can't look up or share personal details about individual students. For student matters, please contact the relevant office or board through its official email.",
+   "error": null,
+   "sources": [],
+   "must_include_ok": true,
+   "cites_expected": null,
+   "has_citation": false,
+   "abstained": true,
+   "web_label_misused": false,
+   "cost": 0.0,
+   "usage": null,
+   "seconds": 0.0,
+   "first_token_s": 0.0
+  },
+  {
+   "id": "oos-1",
+   "category": "out-of-scope",
+   "question": "Who won the IPL in 2026?",
+   "answerable": false,
+   "route": "retrieval",
+   "answer": "I couldn’t find the 2026 IPL winner in IIT Ropar’s official information, so I can’t confirm it from the provided sources. [1][2][3][4][5][6]\n\nIf you want, I can search the web for the latest IPL 2026 result.",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "BOSA | IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/downloads/bosa/#/volleyball"
+    },
+    {
+     "n": 2,
+     "title": "BOSA | IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/downloads/bosa/#/tableTennis"
+    },
+    {
+     "n": 3,
+     "title": "PDF: Annual Report 2017-2018",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Reports/Annual%20Report%202017-2018.pdf"
+    },
+    {
+     "n": 4,
+     "title": "PDF: IIT Ropar 14th Concocation Brochure",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/IIT%20Ropar%2014th%20Concocation%20Brochure.pdf"
+    },
+    {
+     "n": 5,
+     "title": "2024 Team | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/our_team_2024.php"
+    },
+    {
+     "n": 6,
+     "title": "PDF: Annual Report- 2010-11",
+     "url": "https://www.iitrpr.ac.in/downloads/sites/default/files/Annual%20Report-%202010-11.pdf"
+    }
+   ],
+   "must_include_ok": false,
+   "cites_expected": null,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0030009375,
+   "usage": {
+    "prompt_tokens": 4591,
+    "cached_tokens": 0,
+    "completion_tokens": 124,
+    "estimated": false
+   },
+   "seconds": 12.6,
+   "first_token_s": 12.5
+  },
+  {
+   "id": "oos-2",
+   "category": "out-of-scope",
+   "question": "What is the best pizza place in Mumbai?",
+   "answerable": false,
+   "route": "retrieval",
+   "answer": "I couldn’t find anything about Mumbai pizza places in IIT Ropar’s official information, so I can’t reliably name the “best” one from the provided sources. [1][2][3][4][5]\n\nIf you want, I can still help in either of these ways:\n- suggest a simple way to choose a good pizza place in Mumbai based on your area and budget, or\n- search the web for current Mumbai pizza recommendations.",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/places_to_visit_near_ropar.php"
+    },
+    {
+     "n": 2,
+     "title": "Blog | ISMP'26 IIT Ropar",
+     "url": "https://www.iitrpr.ac.in/ismp/blogs/places_to_eat.php"
+    },
+    {
+     "n": 3,
+     "title": "DBME | Awards",
+     "url": "https://iitrpr.ac.in/cbme/durba-awards"
+    },
+    {
+     "n": 4,
+     "title": "Department of Electrical Engineering",
+     "url": "https://www.iitrpr.ac.in/ee"
+    },
+    {
+     "n": 5,
+     "title": "PDF: Guest house catering form w.e.f 06-06-2026",
+     "url": "https://iitrpr.ac.in/downloads/forms/generalForms/Guest house catering form w.e.f 06-06-2026.pdf"
+    }
+   ],
+   "must_include_ok": false,
+   "cites_expected": null,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0028074375,
+   "usage": {
+    "prompt_tokens": 4181,
+    "cached_tokens": 0,
+    "completion_tokens": 135,
+    "estimated": false
+   },
+   "seconds": 3.6,
+   "first_token_s": 3.4
+  },
+  {
+   "id": "oos-3",
+   "category": "out-of-scope",
+   "question": "What is the hostel fee at IIT Bombay?",
+   "answerable": false,
+   "route": "retrieval",
+   "answer": "I couldn’t find IIT Bombay hostel fee information in the official IIT Ropar sources you provided. The context only contains IIT Ropar hostel/mess fee notices, not IIT Bombay data. [1][2][4][5]\n\nIf you meant **IIT Ropar**, I can tell you the latest hostel fee structure from the official notice. For **IIT Bombay**, please check IIT Bombay’s official hostel fees page, or want me to search the web for it? [1][2][4][5]\n\n**Sources**\n- [1] https://www.iitrpr.ac.in/downloads/student-affairs/assets/files/Fee%20notice%20for%20existing%20students%20AY%202025-26%202nd%20Semester.pdf\n- [2] https://www.iitrpr.ac.in/media/circular/6d9a04c7-d24e-4f45-ad79-e41cac52e957.pdf\n- [4] https://www.iitrpr.ac.in/media/circular/abbf1441-64b2-4638-bfdf-1253f05e59bc.pdf\n- [5] https://www.iitrpr.ac.in/downloads/student-affairs/assets/files/New%20Phd%202nd%20Semester.pdf",
+   "error": null,
+   "sources": [
+    {
+     "n": 1,
+     "title": "PDF: Fee notice for existing students AY 2025-26 2nd Semester",
+     "url": "https://www.iitrpr.ac.in/downloads/student-affairs/assets/files/Fee%20notice%20for%20existing%20students%20AY%202025-26%202nd%20Semester.pdf"
+    },
+    {
+     "n": 2,
+     "title": "PDF: 6d9a04c7-d24e-4f45-ad79-e41cac52e957",
+     "url": "https://www.iitrpr.ac.in/media/circular/6d9a04c7-d24e-4f45-ad79-e41cac52e957.pdf"
+    },
+    {
+     "n": 3,
+     "title": "PDF: Handbook of Information AY 2025-26",
+     "url": "https://iitrpr.ac.in/downloads/sites/default/files/academic/Handbook%20of%20Information%20AY%202025-26.pdf"
+    },
+    {
+     "n": 4,
+     "title": "PDF: abbf1441-64b2-4638-bfdf-1253f05e59bc",
+     "url": "https://www.iitrpr.ac.in/media/circular/abbf1441-64b2-4638-bfdf-1253f05e59bc.pdf"
+    },
+    {
+     "n": 5,
+     "title": "PDF: New Phd 2nd Semester",
+     "url": "https://www.iitrpr.ac.in/downloads/student-affairs/assets/files/New%20Phd%202nd%20Semester.pdf"
+    }
+   ],
+   "must_include_ok": true,
+   "cites_expected": null,
+   "has_citation": true,
+   "abstained": false,
+   "web_label_misused": false,
+   "cost": 0.0039526875000000005,
+   "usage": {
+    "prompt_tokens": 5191,
+    "cached_tokens": 0,
+    "completion_tokens": 306,
+    "estimated": false
+   },
+   "seconds": 4.5,
+   "first_token_s": 3.3
+  }
+ ],
+ "total_cost": 0.127809,
+ "ts": "2026-10-22 16:38",
+ "top_k": 6,
+ "tag": "pollinations_openai-gpt-5.4-mini"
+}

@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Large raw scrape output (~730 MB of PDFs)
+data/raw/
+
+# Built index (Chroma) and app state
+index/
+logs/
+*.db
+
+# Model caches
+.cache/
+models/
+hf_cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Scraper intermediate outputs (not needed by the app)
+data/docs/
+data/markdown/
+data/log_*.txt
